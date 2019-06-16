@@ -223,7 +223,7 @@ http://flypy.ys168.com	xhwp
 讠	oby	100
 	oby	99
 	oby	98
-衣底	oby	97
+𧘇	oby	97
 羊	oby	96
 	obz	100
 廴	obz	99
@@ -1445,7 +1445,7 @@ m³	otl	100
 庼	qkg/
 痓	vib/
 竫	jkl/
-淯	yud/
+汩	yud/
 婞	xkn/
 媖	ykn/
 琲	bww/
@@ -1592,6 +1592,7 @@ m³	otl	100
 瓿	bul/
 褙	bwp/
 孛	bwu/
+孛	bou/
 毳	cvm/
 箪	djv/
 觚	gud/
@@ -1607,7 +1608,6 @@ m³	otl	100
 雠	izr/
 乩	jil/
 謇	jmb/
-僭	jmr/
 敫	jnb/
 铼	ldj/
 枥	lim/
@@ -1639,7 +1639,6 @@ m³	otl	100
 燠	yuh/
 羝	diy/
 玓	diw/
-铖	igj/
 浐	ijd/
 赆	jbk/
 芰	jic/
@@ -1684,100 +1683,3 @@ m³	otl	100
 智	viud
 计	jiyd
 床前明月光，疑是地上霜。举头望明月，低头思故乡。	jysi
-# 增补字   增补通用字表外日常可能用到的字
-捱	aift
-㞎	baub
-揼	bgf
-揼	bgfu
-屄	biub
-噃	bokt
-肏	ccr
-肏	ccrr
-啲	diku
-哋	diky
-俤	dirp
-掟	dkf
-掟	dkfr
-屌	dnu
-屌	dnuj
-唞	dzku
-诶	eiy
-诶	eiyu
-奀	enb
-奀	enbd
-瞓	ffo
-瞓	ffoi
-嘅	gekv
-咁	gjkg
-攰	gvul
-啩	gxkb
-嚡	hdkt
-磺	hlu
-磺	hlub
-唓	iek
-唓	ieki
-囝	jmkz
-囧	jsk
-囧	jskv
-㗎	jxkm
-冚	kjb
-冚	kjbe
-崑	kye
-崑	kyeb
-冧	lbbm
-粦	lbml
-嚟	liku
-躝	ljz
-躝	ljzj
-〇	lkvv
-攞	loff
-慜	mbpx
-冇	mcu
-冇	mcuk
-濛	mgdn
-濛	mgdu
-擝	mgfm
-搣	mpf
-搣	mpfh
-槑	mwk
-槑	mwkm
-嗱	naku
-嫐	ncnn
-囝	njkz
-孃	nlny
-鲶	nmax
-撚	nmfh
-惗	nmxx
-嬲	nnt
-嬲	nntl
-㞎	pau
-㞎	paub
-呯	pkk
-呯	pkkp
-螓	qbi
-螓	qbih
-㞗	qqu
-㞗	qquq
-佢	qur
-佢	qurj
-叒	roy
-叒	royy
-嘥	sdkr
-𪨊	ssu
-𪨊	ssur
-劏	thxd
-嗻	vekh
-揾	wff
-揾	wffm
-卌	xial
-喺	xikx
-係	xirx
-嘢	yekl
-吔	yeky
-咗	zokg
-薙	ticf
-榀	pbm
-砦	vdv
-嗮	sdkx
-菓	goc
-菓	gocg
