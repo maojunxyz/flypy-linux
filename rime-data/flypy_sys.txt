@@ -994,6 +994,7 @@ m³	otl	100
 ₂	otx	100
 ₃	otx	99
 ₄	otx	98
+ₙ	otx	97
 ☆	otx	95
 ★	otx	94
 ≤	otx	97
@@ -1614,7 +1615,6 @@ m³	otl	100
 漤	ljd/
 蝥	mcs/
 眄	mmo/
-眄	mmo/
 吣	qbk/
 綮	qkh/
 煺	tvh/
@@ -1669,6 +1669,7 @@ m³	otl	100
 𨱇	qqj/
 黹	viy/
 𬒈	qkx/
+樗	ium/
 # 随心所欲   按自己想法编码的词条
 音形	yxk
 截至	jva
