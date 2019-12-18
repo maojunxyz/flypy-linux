@@ -13,7 +13,6 @@
 # 
 # 本词库默认包含了临时生僻字、补充简码、增补字、符号及部分emoji表情
 
-
 https://flypy.com	xhgw
 https://bbs.flypy.com	xhlt
 http://flypy.ys168.com	xhwp
@@ -59,7 +58,6 @@ http://flypy.ys168.com	xhwp
 入	r
 随	s
 它	t
-十	u
 之	v
 位	w
 性	x
@@ -110,7 +108,6 @@ http://flypy.ys168.com	xhwp
 通	ts
 退	tv
 省	ug
-室	ui
 守	uz
 招	vc
 症	vg
@@ -936,9 +933,10 @@ $	ofhb	99
 ～	op
 ‰	oq
 ……	os
+＆	ota	100
 α	ota	99
+©	otb	100
 β	otb	99
-©	otb	98
 ℃	otc
 °	otd	100
 ＝	otd	99
@@ -953,14 +951,12 @@ $	ofhb	99
 ◆	otf	96
 √	otg	100
 γ	otg	99
-＆	oth	100
 ※	oth	99
 §	oth	98
 ×	oti	100
 ÷	oti	99
 ＋	otj	100
 －	otj	99
-±	otj	98
 m³	otl	100
 ″	otm	100
 ﹩	otm	99
@@ -1285,7 +1281,9 @@ m³	otl	100
 烜	xrh/
 翃	hsu/
 㛚	tsn/
-玙	yuw/
+瑀	yuw/	80
+琟	yuw/	70
+敔	yuw/	60
 祇	qip/
 祇	vip/
 舻	luv/
@@ -1365,7 +1363,6 @@ m³	otl	100
 䜣	xiy/
 䜣	xby/
 䜣	yby/
-玘	qiw/
 扺	vif/
 旴	xuo/
 汧	qmd/
@@ -1437,7 +1434,6 @@ m³	otl	100
 埼	qit/
 勚	yiu/
 桹	lhm/
-敔	yuw/
 厣	yji/
 翈	xxj/
 铚	vij/
@@ -1451,7 +1447,6 @@ m³	otl	100
 媖	ykn/
 琲	bww/
 琟	www/
-琟	yuw/
 㙘	yct/
 棽	ufm/
 棫	yum/
@@ -1495,7 +1490,6 @@ m³	otl	100
 缐	xms/
 瑆	xkw/
 瑝	hlw/
-瑀	yuw/
 蒱	puc/
 碏	qtu/
 碏	xiu/
@@ -1528,7 +1522,6 @@ m³	otl	100
 蕰	yyc/
 鹝	yia/
 霅	vay/
-䗖	dii/
 皞	hcb/
 艎	hlv/
 觭	jid/
@@ -1648,7 +1641,7 @@ m³	otl	100
 铴	thj/
 眚	ugu/
 殳	uuj/
-吒	vak/
+咤	vak/
 鄣	vhl/
 舯	vsv/
 菥	xic/
@@ -1670,6 +1663,9 @@ m³	otl	100
 黹	viy/
 𬒈	qkx/
 樗	ium/
+𥻗	iam/
+㳚	yud/
+𨭉	bjw/
 # 随心所欲   按自己想法编码的词条
 音形	yxk
 截至	jva

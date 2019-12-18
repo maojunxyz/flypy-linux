@@ -4,23 +4,21 @@
 schema:
   schema_id: flypy
   name: 小鹤音形
-  version: "9.7"
+  version: "10.1"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
   description: |
     小鹤音形主码表
-
 
 punctuator:
   import_preset: default
 
 switches:
   - name: ascii_mode
-   # states: [ 中文, 英文 ]
     reset: 0
+   # states: [ 中文, 英文 ]
   - name: full_shape
    # states: [ 半角, 全角 ]
-    reset: 0
   - name: simplification
    # states: [ 简, 繁 ]
     reset: 0
@@ -79,7 +77,6 @@ translator:
     - "^z.*$"
  
 
-   
 history:
    input: ;f
    size: 1 #重复前几次上屏
@@ -113,7 +110,6 @@ custom_phraseYH:
   enable_sentence: false
   enable_completion: false
   initial_quality: -1 #用户词和系统词重码居后
-  
 
 reverse_lookup:
   dictionary: flypydz
@@ -145,10 +141,11 @@ key_binder:
     - {accept: "Caps_Lock", send: Escape, when: composing} 
     - {accept: "Shift_R", send: Escape, when: composing}
     - {accept: "Shift+space", toggle: full_shape, when: always} #切换全半角
-   # - {accept: "Control+j", toggle: simplification, when: always} #切换简繁
+  #  - {accept: "Control+j", toggle: simplification, when: always} #切换简繁
     - {accept: "Control+period", toggle: ascii_punct, when: always} #切换中英标点
-  #  - {accept: "Control+m", select: .next, when: always} #切换方案
-    
+   # - {accept: "Control+m", select: .next, when: always} #切换方案
+
+
    
 recognizer:
   import_preset: default
