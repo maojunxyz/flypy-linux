@@ -1,8 +1,7 @@
 # coding: utf-8
 # 小鹤音形符号、补充简码等词库
 # 该文件以UTF-8编码保存
-# 编码各字段以制表符（Tab）分隔
-# 编码格式：词条Tab编码Tab权重（权重决定重码的次序，权重大则居前，无重码则无需权重）
+# 编码格式：字词+Tab符+编码（词库本身有重码则还需后面+Tab符+权重，权重大者居前，权重数字随意）
 # 
 #    === 强调一下 === 
 # 
@@ -13,6 +12,14 @@
 # 
 # 本词库默认包含了临时生僻字、补充简码、增补字、符号及部分emoji表情
 
+试	u
+事	ui
+室	ui
+时	uio
+十	uia
+二十	erui
+小时	xu
+而是	eu
 https://flypy.com	xhgw
 https://bbs.flypy.com	xhlt
 http://flypy.ys168.com	xhwp
@@ -102,7 +109,6 @@ http://flypy.ys168.com	xhwp
 扔	rg
 寺	si
 淘	tc
-疼	tg
 替	ti
 舔	tm
 通	ts
@@ -130,15 +136,16 @@ http://flypy.ys168.com	xhwp
 揍	zz
 坐	zo
 堆	dv
+
 #符号
 ！	oa
-%	ob	100
-一	ob	99
-丨	ob	98
-丿	ob	97
-丶	ob	96
-乛	ob	95
-乀	ob	94
+%	ob
+一横	oba	111
+丨竖	obl	111
+丿撇	obp	111
+丶点	obd	111
+乛折	obv	111
+乀捺	obn	111
 鱼	oba
 冖	obb	100
 宀	obb	99
@@ -232,9 +239,9 @@ http://flypy.ys168.com	xhwp
 ）	oj
 《	ok	90
 》	ol
-‘	on
-’	om
-成组符号btu...	of
+〔	on
+〕	om
+；	of
 成组标点d	ofb
 “”	ofbd	100
 （）	ofbd	99
@@ -945,27 +952,26 @@ $	ofhb	99
 ＞	otd	96
 の	ote
 ′	otf	100
-□	otf	99
-■	otf	98
-◇	otf	97
-◆	otf	96
+Φ	otf	99
+□	otf	98
+■	otf	97
 √	otg	100
 γ	otg	99
 ※	oth	99
-§	oth	98
 ×	oti	100
 ÷	oti	99
 ＋	otj	100
 －	otj	99
 m³	otl	100
 ″	otm	100
-﹩	otm	99
-￠	otm	98
-￡	otm	97
+μ	otm	99
+﹩	otm	98
+￠	otm	97
 ♂	otn	100
 ♀	otn	99
 №	otn	98
-€	oto
+€	oto	100
+Ω	oto	99
 ㎡	otp	100
 ∏	otp	99
 ¥	otr	100
@@ -981,7 +987,6 @@ m³	otl	100
 ⁴	otu	98
 ⁿ	otu	97
 ™	otu	96
-Φ	otv	100
 ®	otv	99
 ㈱	otv	98
 ∞	otw	100
@@ -991,15 +996,11 @@ m³	otl	100
 ₃	otx	99
 ₄	otx	98
 ₙ	otx	97
-☆	otx	95
-★	otx	94
-≤	otx	97
-＜	otx	96
-·	oty	100
+≤	otx	96
+＜	otx	95
 £	oty	99
 ○	oty	98
 ●	oty	97
-℃	ouud
 ？	ow
 凹	oxa
 百	oxb	100
@@ -1028,7 +1029,6 @@ m³	otl	100
 丹	oxd	94
 电	oxd	93
 氐	oxd	92
-旦	oxd	91
 二	oxe	100
 耳	oxe	99
 儿	oxe	98
@@ -1053,7 +1053,6 @@ m³	otl	100
 丐	oxg	92
 果	oxg	91
 更	oxg	90
-亘	oxg	89
 夬	oxg	88
 禾	oxh	100
 户	oxh	99
@@ -1576,7 +1575,6 @@ m³	otl	100
 蝤	qqi/
 浯	wud/
 禊	xip/
-咺	xrk/
 堙	ybt/
 悒	yix/
 怿	yix/
@@ -1666,6 +1664,12 @@ m³	otl	100
 𥻗	iam/
 㳚	yud/
 𨭉	bjw/
+蓇	guc/	30
+䓛	guc/	20
+䓛	fuc/
+澹	djd/
+汤	uhd/
+𬶨	jig/
 # 随心所欲   按自己想法编码的词条
 音形	yxk
 截至	jva

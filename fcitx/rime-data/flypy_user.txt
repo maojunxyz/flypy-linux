@@ -24,11 +24,3 @@
 
 #用户词库，下一行后开始添加。切换方案或部署后生效
 # no comment
-试	u
-事	ui
-室	ui
-时	uio
-十	uia
-二十	erui
-小时	xnui
-而是	eu
