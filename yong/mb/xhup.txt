@@ -4,18 +4,20 @@ pull=;
 push=/
 len=4
 dicts=mb/xhbc.txt mb/xhzcm.txt mb/yb.txt
-assist=` mb/wbx.txt
 match=1
+assist=` mb/wbx.txt
 code_e2=p11+p12+p21+p22
 code_e3=p11+p21+p31+p32
 code_a4=p11+p21+p31+n11
 [DATA]
+ouj $hour0:$min
 ouj $hour0时$min分$sec秒
 ouj $hour0时$min分
-orq $yyyy年$mon月$day日
-orq $yyyy-$mon-$day
+orq $yyyy$mon0$day0
+orq $yyyy年$mon0月$day0日
+orq $yyyy-$mon0-$day0
 olb 星期$WEEK
-onl 农历$RIQI
+onl $RIQI
 / 、
 a 啊
 aa 阿
@@ -8690,7 +8692,7 @@ ersy 儿孙
 erts 儿童
 eru 饵
 erue 饵
-erui 而是
+erui 二十
 eruu 耳熟
 eruz 二手
 erv 二者
@@ -8732,7 +8734,7 @@ etjp 儿童节
 etmm 耳提面命
 etwx 儿童文学
 etzz 恩同再造
-eu 十
+eu 而是
 eub 二十八
 euba 二十八
 eue 二十二
@@ -32709,6 +32711,7 @@ qia 七
 qiab 鲯
 qiad 戚
 qiae 郪
+qiah 炁
 qian 妻
 qiao 鳍
 qiav 七
@@ -41200,13 +41203,12 @@ uhz 上载
 uhzc 尚早
 uhzd 尚在
 uhzo 上座
-ui 时
-uia 事
+ui 事
 uiac 鲥
 uiai 鲺
 uiaj 𫚕
 uiak 石
-uial 十
+uia 十
 uian 豕
 uiav 世
 uib 实
@@ -41356,9 +41358,9 @@ uinm 十年
 uint 施虐
 uinv 侍女
 uinw 室内
+uio 时
 uio 匙
 uiob 匙
-uioc 时
 uior 是
 uiox 䏡
 uip 视
@@ -49582,6 +49584,7 @@ xntz 小偷
 xnu 硝
 xnue 校舍
 xnug 笑声
+xnui 小时
 xnui 消失
 xnuj 小山
 xnuo 小说
