@@ -12,7 +12,7 @@
 # 
 # 本词库默认包含了临时生僻字、补充简码、增补字、符号及部分emoji表情
 
-试	u
+时	u
 事	ui
 室	ui
 时	uio
@@ -23,6 +23,7 @@
 https://flypy.com	xhgw
 https://bbs.flypy.com	xhlt
 http://flypy.ys168.com	xhwp
+😊	oi
 # 表情
 😓	hj
 😭	ku
@@ -235,7 +236,6 @@ http://flypy.ys168.com	xhwp
 ”	oc
 、	od
 （	oh
-😊	oi
 ）	oj
 《	ok	90
 》	ol
@@ -984,7 +984,6 @@ m³	otl	100
 ℡	ott	99
 ²	otu	100
 ³	otu	99
-⁴	otu	98
 ⁿ	otu	97
 ™	otu	96
 ®	otv	99
@@ -994,7 +993,6 @@ m³	otl	100
 卐	otw	98
 ₂	otx	100
 ₃	otx	99
-₄	otx	98
 ₙ	otx	97
 ≤	otx	96
 ＜	otx	95
@@ -1261,6 +1259,7 @@ m³	otl	100
 Ⅹ	oyu	30
 “	oz
 #临时生僻字
+𬣞	vuy/
 𬤊	diy/
 偾	ffr/
 汔	qid/
@@ -1684,3 +1683,5 @@ m³	otl	100
 智	viud
 计	jiyd
 床前明月光，疑是地上霜。举头望明月，低头思故乡。	jysi
+及时	juo
+指示	vue
