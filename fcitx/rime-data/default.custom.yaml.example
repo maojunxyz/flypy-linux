@@ -1,4 +1,4 @@
-# Rime default settings
+# Rime custome settings example
 # encoding: utf-8
 
 config_version: "0.38"
@@ -15,8 +15,7 @@ patch:
   switcher:
     caption: "切换输入法"
     hotkeys:
-        # - F4
-        - Alt+E
+         - F4
     save_options:
       - full_shape
       - ascii_punct
@@ -151,6 +150,19 @@ patch:
       uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
       reverse_lookup: "[a-z`]*`+[a-z`]*"
       punct: ""
+
+# 可用的按键有 Caps_Lock, Shift_L, Shift_R, Control_L, control_R
+#
+# 已输入编码时按切换键，可以进一步设定输入法中西文切换的形式
+# 可选的临时切换策略有三：
+# inline_ascii 在输入法的临时西文编辑区内输入字母、数字、符号、空格等，回车上屏后自动复位到中文
+# commit_text 已输入的候选文字上屏并切换至西文输入模式
+# commit_code 已输入的编码字符上屏并切换至西文输入模式
+# 设为 noop, 屏蔽该切换键
+#
+# 如果要把Caps Lock 设为只改变字母的大小写而不做中西文切换，可将 Caps_Lock 对应的切换方式设为 noop
+# 如果要以Caps Lock 切换到西文模式，默认输出小写字母，请置 ascii_composer/good_old_caps_lock: false
+# 如果要以Caps Lock 切换到西文模式，默认输出大写字母，请置 ascii_composer/good_old_caps_lock: true
   
   ascii_composer:
     good_old_caps_lock: true
