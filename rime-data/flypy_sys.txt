@@ -12,18 +12,38 @@
 # 
 # 本词库默认包含了临时生僻字、补充简码、增补字、符号及部分emoji表情
 
-时	u
-事	ui
-室	ui
-时	uio
-十	uia
-二十	erui
-小时	xu
-而是	eu
 https://flypy.com	xhgw
 https://bbs.flypy.com	xhlt
 http://flypy.ys168.com	xhwp
 😊	oi
+
+# 快捷符号，使用外接键盘时调换下面两行的数字
+：“	;q
+？	;w
+（	;e
+）	;r
+@	;t
+·	;y
+＝	;u
+〈	;i
+〉	;o
+～	;p
+！	;a
+……	;s
+、	;d
+《	;g
+＋	;h
+－	;j
+×	;k
+÷	;l
+“	;z
+→	;x
+”	;c
+——	;v
+》	;b
+〔	;n
+〕	;m
+
 # 表情
 😓	hj
 😭	ku
@@ -48,7 +68,7 @@ http://flypy.ys168.com	xhwp
 🖕	cc
 🤔	sk
 
-# 补充简码
+# 二重简码
 按	a
 吧	b
 此	c
@@ -141,12 +161,12 @@ http://flypy.ys168.com	xhwp
 #符号
 ！	oa
 %	ob
-一横	oba	111
-丨竖	obl	111
-丿撇	obp	111
-丶点	obd	111
-乛折	obv	111
-乀捺	obn	111
+一	oba	111
+丨	obl	111
+丿	obp	111
+丶	obd	111
+乛	obv	111
+乀	obn	111
 鱼	oba
 冖	obb	100
 宀	obb	99
@@ -944,19 +964,21 @@ $	ofhb	99
 α	ota	99
 ©	otb	100
 β	otb	99
+≠	otb	98
 ℃	otc
 °	otd	100
 ＝	otd	99
-≠	otd	98
 ≥	otd	97
 ＞	otd	96
-の	ote
+の	ote	100
+ε	ote	99
 ′	otf	100
 Φ	otf	99
 □	otf	98
 ■	otf	97
 √	otg	100
 γ	otg	99
+℉	oth	100
 ※	oth	99
 ×	oti	100
 ÷	oti	99
@@ -973,7 +995,7 @@ m³	otl	100
 €	oto	100
 Ω	oto	99
 ㎡	otp	100
-∏	otp	99
+π	otp	99
 ¥	otr	100
 ￥	otr	99
 ∴	ots	100
@@ -982,23 +1004,20 @@ m³	otl	100
 ▲	ots	97
 ฿	ott	100
 ℡	ott	99
-²	otu	100
-³	otu	99
-ⁿ	otu	97
 ™	otu	96
 ®	otv	99
 ㈱	otv	98
 ∞	otw	100
 卍	otw	99
 卐	otw	98
-₂	otx	100
-₃	otx	99
-ₙ	otx	97
 ≤	otx	96
 ＜	otx	95
+☆	otx	94
+★	otx	93
 £	oty	99
-○	oty	98
-●	oty	97
+≈	oty	98
+○	oty	97
+●	oty	96
 ？	ow
 凹	oxa
 百	oxb	100
@@ -1186,7 +1205,6 @@ m³	otl	100
 无	oxw	97
 万	oxw	96
 午	oxw	95
-卫	oxw	94
 亡	oxw	93
 未	oxw	92
 乌	oxw	91
@@ -1259,417 +1277,532 @@ m³	otl	100
 Ⅹ	oyu	30
 “	oz
 #临时生僻字
-𬣞	vuy/
+嶅	aof/
+鲌	baa/
+蚄	bhi/
+皕	bib/
+芘	bic/
+苾	bic/
+萆	bic/
+沘	bid/
+馝	bih/
+咇	bik/
+祕	bip/
+襞	biu/
+舭	biv/
+跸	biz/
+攽	bjb/
+𨭉	bjw/
+𨚕	bms/
+笾	bmv/
+幖	bnj/
+骉	bnm/
+浡	bod/
+欂	bom/
+孛	bou/
+瓿	bul/
+埗	but/
+鞁	bwg/
+邶	bwl/
+棓	bwm/
+褙	bwp/
+孛	bwu/
+琲	bww/
+粢	cid/
+䅟	cjh/
+毳	cvm/
+𨱏	daj/
+鿎	dau/
+筜	dhv/
+浟	did/
+杕	dim/
+禘	dip/
+玓	diw/
+羝	diy/
 𬤊	diy/
+澹	djd/
+𬊤	djh/
+箪	djv/
+磹	dmu/
+汈	dnd/
+饳	dou/
+𬭊	duj/
+阇	dum/
+蹾	dyz/
+崿	eee/
+姶	een/
+𥔲	eeu/
+𣸣	ffd/
 偾	ffr/
-汔	qid/
-怃	wux/
-蝓	yui/
-凇	ssd/
-匜	yik/
-嵎	yue/
-彧	yua/
-恓	xix/
-恓	qix/
-揳	xpf/
+浲	fgd/
+蚄	fhi/
+氾	fjd/
+𫔍	fjj/
+𬸪	fjp/
+䓛	fuc/
+㕮	fuk/
+祓	fup/
+垺	fut/
+㽏	gjd/
+珖	glw/
+馃	gou/
+筦	grv/
+䢼	gsc/
+蓇	guc/	30
+䓛	guc/	20
+觚	gud/
+蛄	gui/
+牿	gun/
+馉	guu/
+嘏	guu/
 榖	guu/
-浕	jbd/
-湜	uid/
-澥	xpd/
-烜	xrh/
+廆	gvg/
+姽	gvn/
+雊	gzb/
+句	gzb/
+皞	hcb/
+嚆	hck/
+嗥	hck/
+咍	hdk/
+浛	hjd/
+扞	hjf/
+㿠	hlb/
+𨱑	hlj/
+锽	hlj/
+艎	hlv/
+瑝	hlw/
+漷	hod/
+镮	hrj/
 翃	hsu/
-㛚	tsn/
+冱	hud/
+濩	hud/
+烀	huh/
+觳	huu/
+縠	huu/
+浍	hvd/
+翙	hve/
+烠	hvh/
+翚	hvx/
+𬤝	hvy/
+𥻗	iam/
+煁	ifh/
+榇	ifm/
+棽	ifm/
+𬬮	ihj/
+氅	ihx/
+鸱	iid/
+漦	iiw/
+浐	ijd/
+刬	ijj/
+梴	ijm/
+襜	ijp/
+摏	isf/
+艟	isv/
+翀	isx/
+斶	iuj/
+樗	ium/
+楮	ium/
+雠	izr/
+浕	jbd/
+赆	jbk/
+瑨	jbw/
+琎	jbw/
+蒺	jic/
+芰	jic/
+殛	jid/
+剞	jid/
+瀱	jid/
+觭	jid/
+鹡	jid/
+𬶨	jig/
+穄	jih/
+𫓹	jij/
+耤	jil/
+乩	jil/
+枅	jim/
+姞	jin/
+伋	jir/
+垍	jit/
+竫	jkl/
+璥	jkw/
+謇	jmb/
+楗	jmm/
+篯	jmv/
+𬣡	jmy/
+敫	jnb/
+皦	jnb/
+滘	jnd/
+漖	jnd/
+燋	jnh/
+僬	jnr/
+璬	jnw/
+恔	jnx/
+岊	jpb/
+骱	jpg/
+蜐	jpi/
+褯	jpp/
+价	jpr/
+锩	jrj/
+颎	jsb/
+㵐	jtd/
+𫔎	jtj/
+𫘝	jtm/
+矞	jts/
+蒟	juc/
+澽	jud/
+枸	jum/
+椐	jum/
+泇	jxd/
+𬂩	jxm/
+𫖳	jyy/
+闿	kdm/
+匼	kek/
+𫠆	kvu/
+𬭸	lbj/
+𬴊	lbm/
+翷	lbm/
+铼	ldj/
+桹	lhm/
+鲡	lia/
+蓠	lic/
+苈	lic/
+浰	lid/
+浬	lid/
+凓	lid/
+轹	lii/
+呖	lik/
+朸	lim/
+枥	lim/
+𬍛	liw/
+珕	liw/
+悝	lix/
+漤	ljd/
+澪	lkd/
+崚	lke/
+倞	llr/
+蠃	low/
+碌	lqu/
+昽	lso/
+𫘧	lum/
+簏	luv/
+舻	luv/
+梠	lvm/
+溇	lzd/
+鄚	mcc/
+蟊	mcs/
+蝥	mcs/
+鹲	mgc/
+醾	miy/
+瘼	mob/
+藦	moc/
+靺	mog/
+渼	mwd/
+郿	mwv/
+糵	npc/
+帑	nun/
+舥	pav/
+簰	pdv/
+嚭	piu/
+鼙	piu/
+冯	pkd/
+帡	pkj/
+蒱	puc/
+吣	qbk/
+觭	qid/
+洓	qid/
+汔	qid/
+欹	qid/
+𬮿	qie/
+綮	qih/
+𬨂	qii/
+啐	qik/
+桤	qim/
+槭	qim/
+祇	qip/
+俟	qir/
+埼	qit/
+庼	qkg/
+綮	qkh/
+𬒈	qkx/
+褰	qmb/
+汧	qmd/
+鹐	qmd/
+墘	qmt/
+愀	qnx/
+慊	qpx/
+蝤	qqi/
+𨱇	qqj/
+傕	qtr/
+碏	qtu/
+焌	quh/
+讱	rfy/
+颥	ruy/
+洓	sed/
+𬙋	shs/
+凘	sid/
+飔	sij/
+凇	ssd/
+𫗧	suu/
+穟	svh/
+尿	svu/
+溚	tad/
+溏	thd/
+鄌	thg/
+铴	thj/
+遆	tiz/
+烶	tkh/
+䗴	tki/
+栝	tmm/
+铫	tnj/
+哃	tsk/
+煺	tvh/
+忳	tyx/
+挲	uad/
+筲	ucv/
+畬	uer/
+𬳽	ufm/
+棽	ufm/
+甡	ufu/
+诜	ufy/
+眚	ugu/
+汤	uhd/
+埫	uht/
+䴓	uia/
+浉	uid/
+湜	uid/
+炻	uih/
+鼫	uij/
+襫	uip/
+祏	uip/
+畤	uit/
+芟	ujc/
+钐	ujj/
+鄯	ujy/
+数	uom/
+澍	uud/
+秫	uuh/
+𬬸	uuj/
+殳	uuj/
+鄃	uur/
+琡	uuw/
+艏	uzv/
+咤	vak/
+柞	vam/
+霅	vay/
+浈	vfd/
+昣	vfo/
+禛	vfp/
+瑧	vfw/
+鄣	vhl/
+痓	vib/
+茋	vic/
+泜	vid/
+滍	vid/
+摭	vif/
+扺	vif/
+轾	vii/
+铚	vij/
+禔	vip/
+祇	vip/
+氏	vip/
+卮	vip/
+𨙸	viu/
+黹	viy/
+跱	viz/
+跖	viz/
+汋	vod/
+舯	vsv/
+澍	vud/
+潴	vud/
+蠋	vui/
+橥	vuq/
+邾	vuv/
+𬣞	vuy/
+赒	vzk/
+忞	wfw/
+痦	wub/
+鋈	wud/
+洿	wud/
+浯	wud/
+靰	wug/
+铻	wuj/
+鼯	wuj/
+杌	wum/
+郚	wuw/
+珸	wuw/
+怃	wux/
+鳂	wwa/
+𫇭	wwc/
+洧	wwd/
+溦	wwd/
+𣲗	wwd/
+沩	wwd/
+隈	wwe/
+峗	wwe/
+煟	wwh/
+螱	wwu/
+琟	www/
+亹	www/
+镡	xbj/
+䜣	xby/
+穸	xib/
+菥	xic/
+葸	xic/
+酅	xie/
+熻	xih/
+螅	xii/
+舄	xij/
+𬭳	xij/
+粞	xim/
+睎	xio/
+肸	xio/
+禊	xip/
+谿	xip/
+俙	xir/
+歙	xir/
+豨	xiu/
+碏	xiu/
+屃	xiu/
+憙	xiu/
+饻	xiu/
+郄	xix/
+恓	xix/
+钘	xkj/
+骍	xkm/
+婞	xkn/
+𫰛	xkn/
+瑆	xkw/
+瓖	xlw/
+崄	xme/
+𬀪	xmo/
+缐	xms/
+硍	xmu/
+燹	xmu/
+筅	xmv/
+渫	xpd/
+澥	xpd/
+揳	xpf/
+榍	xpm/
+𬹼	xpv/
+𤫉	xpw/
+痃	xrb/
+烜	xrh/
+晅	xro/
+暅	xro/
+琄	xrw/
+𫍽	xry/
+诇	xsy/
+湑	xud/
+欻	xuh/
+冔	xuk/
+旴	xuo/
+醑	xuy/
+𬣙	xuy/
+翈	xxj/
+𬊈	xyh/
+𬘓	xys/
+蟫	ybi/
+骃	ybm/
+堙	ybt/
+龂	ybv/
+𬤇	yby/
+㙘	yct/
+焆	yeh/
+楪	yem/
+邪	yey/
+蛘	yhi/
+鹝	yia/
+鹢	yib/
+潩	yid/
+㴔	yid/
+洢	yid/
+𫖮	yie/
+燚	yih/	30
+扅	yih/
+扆	yih/
+镱	yij/
+𬬩	yij/
+繄	yik/
+匜	yik/
+枍	yim/
+椸	yim/
+佁	yir/
+勚	yiu/
+裛	yiw/
+悒	yix/
+怿	yix/
+叕	yiy/
+酏	yiy/
+劓	yiz/
+掞	yjf/
+剡	yjh/
+扊	yjh/
+虤	yjh/
+烻	yjh/
+黡	yji/
+厣	yji/
+郾	yjk/
+阏	yjm/
+梴	yjm/
+嬿	yjn/
+𫄧	yjs/
+埏	yjt/
+歅	yjx/
+谳	yjy/
+潆	ykd/
+锳	ykj/
+桯	ykm/
+媖	ykn/
+涴	yrd/
+螈	yri/
+羱	yry/
+窬	yub/
+瘐	yub/
+潏	yud/
+汩	yud/
+㳚	yud/
+隃	yue/
+隩	yue/
+嵎	yue/
+髃	yug/
+燠	yuh/
+蝓	yui/
+棫	yum/
+畬	yur/
+悆	yur/
+伛	yur/
+矞	yus/
+纡	yus/
+熨	yuu/
+艅	yuv/
 瑀	yuw/	80
 琟	yuw/	70
 敔	yuw/	60
-祇	qip/
-祇	vip/
-舻	luv/
-縠	huu/
-羑	yzy/
-翚	hvx/
-蒟	juc/
-豨	xiu/
-蹾	dyz/
-郿	mwv/
-铻	wuj/
-靺	mog/
-鹲	mgc/
-颎	jsb/
-馃	gou/
-鹐	qmd/
-襞	biu/
-邶	bwl/
-蒺	jic/
-殛	jid/
-剞	jid/
-蓠	lic/
-蟊	mcs/
-摭	vif/
-潴	vud/
-渫	xpd/
-褰	qmb/
-鋈	wud/
-谳	yjy/
-纡	yus/
-蚰	yzi/
-锩	jrj/
-瘼	mob/
-筲	ucv/
-秫	uuh/
-琡	uuw/
-螈	yri/
-蛄	gui/
-桕	jqm/
-鲡	lia/
-苈	lic/
-呖	lik/
-鼙	piu/
-桤	qim/
-愀	qnx/
-溏	thd/
-轾	vii/
-卮	vip/
-洧	wwd/
-沩	wwd/
-隈	wwe/
-葸	xic/
-螅	xii/
-伛	yur/
-潆	ykd/
-橥	vuq/
-榍	xpm/
-欹	qid/
-僬	jnr/
-蠃	low/
-埏	ujt/
-萆	bic/
-舭	biv/
-牿	gun/
-嘏	guu/
-冱	hud/
-楗	jmm/
-痃	xrb/
-窬	yub/
 邘	yuy/
-伋	jir/
-汈	dnd/
-氾	fjd/
-讱	rfy/
-扞	hjf/
-朸	lim/
-䜣	xiy/
-䜣	xby/
-䜣	yby/
-扺	vif/
-旴	xuo/
-汧	qmd/
-沄	yyd/
-沘	bid/
-诇	xsy/
-岊	jpb/
-鄃	uur/
-䢼	gsc/
-茋	vic/
-苾	bic/
-枅	jim/
-枍	yim/
-咇	bik/
-肸	xio/
-饳	dou/
-泜	vid/
-泇	jxd/
-酏	yiy/
-垍	jit/
-郚	wuw/
-䴓	uia/
-昽	lso/
-虸	zii/
-哃	tsk/
-峗	wwe/
-帡	pkj/
-钘	xkj/
-俙	xir/
-饻	xiu/
-洓	sed/
-洓	qid/
-洓	zid/
-浉	uid/
-洢	yid/
-祏	uip/
-姞	jin/
-姽	gvn/
-骃	ybm/
-骉	bnm/
-珖	glw/
-珕	liw/
-埗	but/
-梠	lvm/
-晅	xro/
-冔	xuo/
-冔	xuk/
-蚄	fhi/
-蚄	bhi/
-崄	xme/
-甡	ufu/
-舥	pav/
-烠	hvh/
-烶	tkh/
-烻	yjh/
-浡	bod/
-浬	lid/
-涢	yyd/
-浰	lid/
-浟	yzd/
-浟	did/
-浛	hjd/
-扅	yih/
-扆	yih/
-翀	isx/
-骍	xkm/
-珸	wuw/
-琄	xrw/
-埼	qit/
-勚	yiu/
-桹	lhm/
-厣	yji/
-翈	xxj/
-铚	vij/
-㿠	hlb/
 鄅	yuy/
-庼	qkg/
-痓	vib/
-竫	jkl/
-汩	yud/
-婞	xkn/
-媖	ykn/
-琲	bww/
-琟	www/
-㙘	yct/
-棽	ufm/
-棫	yum/
-皕	bib/
-睎	xio/
-崿	eee/
-翙	hve/
-赒	vzk/
-筜	dhv/
-畬	uer/
-畬	yur/
-馉	guu/
-凓	lid/
-椐	jum/
-痦	wub/
-嶅	aof/
-靰	wug/
-椸	yim/
-潩	yid/
-醑	xuy/
-屃	xiu/
-穸	xib/
-昣	vfo/
-凘	sid/
-墘	qmt/
-鄚	mcc/
-刬	ijj/
-棽	ifm/
-镮	hrj/
-咍	hdk/
-攽	bjb/
-欂	bom/
-鞁	bwg/
-䅟	cjh/
-粢	zid/
-粢	cid/
-渼	mwd/
-溇	lzd/
-湑	xud/
-扊	yjh/
-缐	xms/
-瑆	xkw/
-瑝	hlw/
-蒱	puc/
-碏	qtu/
-碏	xiu/
-暅	xro/
-跱	viz/
-蜐	jpi/
-锳	ykj/
-筼	yyv/
-筦	grv/
-艅	yuv/
-雊	gzb/
-飔	sij/
-裛	yiw/
-煟	wwh/
-溦	wwd/
-滘	jnd/
-滍	vid/
-禘	dip/
-瑧	vfw/
-瑨	jbw/
-摏	isf/
-幖	bnj/
-锽	hlj/
-馝	bih/
-漖	jnd/
-㽏	gjd/
-褕	yup/
-禛	vfp/
-漦	iiw/
 蕰	yyc/
-鹝	yia/
-霅	vay/
-皞	hcb/
-艎	hlv/
-觭	jid/
-觭	qid/
-鹡	jid/
-鹢	yib/
-㵐	jtd/
-潏	yud/
-褯	jpp/
-璥	jkw/
-憙	xiu/
-虤	yjh/
-穄	jih/
-篯	jmv/
-熻	xih/
-榇	ifm/
-燚	yih/
-澪	lkd/
-澽	jud/
-璬	jnw/
-繄	yik/
-磹	dmu/
-穟	svh/
-斶	iuj/
-谿	xip/
-鳂	wwa/
-螱	wwu/
-藦	moc/
-黡	yji/
-䗴	tki/
-髃	yug/
-簰	pdv/
-鼫	uij/
-皦	jnb/
-翷	lbm/
+涢	yyd/
+沄	yyd/
+馧	yyh/
+筼	yyv/
+浟	yzd/
+𬨎	yzi/
+蚰	yzi/
+羑	yzy/
 䎖	zgb/
-襜	ijp/
-嚭	piu/
-蠋	vui/
-嬿	yjn/
-酅	xie/
-瀱	jid/
-襫	uip/
-瓖	xlw/
-爚	yth/
-糵	npc/
-醾	miy/
-祓	fup/
-闿	kdm/
-簏	luv/
-綮	qih/
-蝤	qqi/
-浯	wud/
-禊	xip/
-堙	ybt/
-悒	yix/
-怿	yix/
-瘐	yub/
-跸	biz/
-笾	bmv/
-瓿	bul/
-褙	bwp/
-孛	bwu/
-孛	bou/
-毳	cvm/
-箪	djv/
-觚	gud/
-嚆	hck/
-嗥	hck/
-烀	huh/
-觳	huu/
-煁	ifh/
-氅	ihx/
-鸱	iid/
-艟	isv/
-楮	ium/
-雠	izr/
-乩	jil/
-謇	jmb/
-敫	jnb/
-铼	ldj/
-枥	lim/
-漤	ljd/
-蝥	mcs/
-眄	mmo/
-吣	qbk/
-綮	qkh/
-煺	tvh/
-诜	ufy/
-炻	uih/
-鄯	ujy/
-芟	ujc/
-澍	uud/
-浈	vfd/
-跖	viz/
-澍	vud/
-邾	vuv/
-鼯	wuj/
-杌	wum/
-舄	xij/
-粞	xim/
-燹	xmu/
-蛘	yhi/
-劓	yiz/
-郾	yjk/
-羱	yry/
-燠	yuh/
-羝	diy/
-玓	diw/
-浐	ijd/
-赆	jbk/
-芰	jic/
-骱	jpg/
-轹	lii/
-颥	ruy/
-铴	thj/
-眚	ugu/
-殳	uuj/
-咤	vak/
-鄣	vhl/
-舯	vsv/
-菥	xic/
-筅	xmv/
-镱	yij/
-埏	yjt/
+粢	zid/
+洓	zid/
+虸	zii/
 赀	ziv/
-琎	jbw/
-鿎	dau/
-梴	yjm/
-梴	ijm/
-阏	yjm/
-氏	vip/
-匼	kek/
-鄌	thg/
-钐	ujj/
-艏	uzv/
-𨱇	qqj/
-黹	viy/
-𬒈	qkx/
-樗	ium/
-𥻗	iam/
-㳚	yud/
-𨭉	bjw/
-蓇	guc/	30
-䓛	guc/	20
-䓛	fuc/
-澹	djd/
-汤	uhd/
-𬶨	jig/
-# 随心所欲   按自己想法编码的词条
+
+
+# 随心所欲   自定编码规则
+距离	jlw
+食物	uwn
+及时	juo
+指示	vue
+直到	vda
+哲理	vlw
 音形	yxk
 截至	jva
 觉得	jdi
@@ -1683,5 +1816,3 @@ m³	otl	100
 智	viud
 计	jiyd
 床前明月光，疑是地上霜。举头望明月，低头思故乡。	jysi
-及时	juo
-指示	vue
