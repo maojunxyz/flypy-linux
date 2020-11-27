@@ -962,12 +962,13 @@ $	ofhb	99
 ……	os
 ＆	ota	100
 α	ota	99
-©	otb	100
+%	otb	100
 β	otb	99
-≠	otb	98
+©	otb	98
 ℃	otc
 °	otd	100
 ＝	otd	99
+≠	otd	98
 ≥	otd	97
 ＞	otd	96
 の	ote	100
@@ -996,6 +997,7 @@ m³	otl	100
 Ω	oto	99
 ㎡	otp	100
 π	otp	99
+‰	otq	100
 ¥	otr	100
 ￥	otr	99
 ∴	ots	100

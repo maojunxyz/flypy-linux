@@ -16,13 +16,9 @@ switcher:
     - full_shape
     - ascii_punct
     - simplification
-    - extended_charset
-    - zh_hant
-    - zh_hans
-    - zh_hant_tw
   fold_options: true
   abbreviate_options: true
-  option_list_separator: '／'
+  #option_list_separator: '／'
 
 menu:
   page_size: 5
@@ -67,13 +63,13 @@ punctuator:
     '.' : { commit: 。 }
     '<' : [ 《, 〈, «, ‹ ]
     '>' : [ 》, 〉, », › ]
-    '/' : [ 、, '/', ／, ÷ ]
+    '/' : { commit: 、 }
     '?' : { commit: ？ }
     ';' : { commit: ； }
     ':' : { commit: ： }
     '''' : { pair: [ '‘', '’' ] }
     '"' : { pair: [ '“', '”' ] }
-    '\' : [ 、, '\', ＼ ]
+    '/' : { commit: 、 }
     '|' : [ ·, '|', ｜, '§', '¦' ]
     '`' : '`'
     '~' : [ '~', ～ ]
