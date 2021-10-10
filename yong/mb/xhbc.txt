@@ -1,0 +1,1782 @@
+# 快捷符号
+; ：
+; ；
+;q ：“
+;w ？
+;e （
+;r ）
+;t @
+;y ·
+;u ＝
+;i 〈
+;o 〉
+;p ～
+;a ！
+;s ……
+;d 、
+;g 《
+;h ＋
+;j －
+;k ×
+;l ÷
+;z “
+;x →
+;c ”
+;v ——
+;b 》
+;n 〔
+;m 〕
+
+# 表情
+hj 😓
+ku 😭
+xn 😂
+nu 😠
+fd 😳
+ql 👍
+ok 👌
+ro 👎
+gv 👏
+ia ☕
+pj 🍺
+dg 🎂
+bt 🙏
+mg 🌹
+uv 💤
+ux 💔
+nq 🐂
+nr 🐂🚶
+mh 🐎🐎🐅🐅
+gh 🐾🐎👀🌸
+cc 🖕
+sk 🤔
+ 
+# 补充简码
+a 按
+b 吧
+c 此
+d 打
+e 嗯
+f 发
+g 管
+h 化
+j 见
+k 块
+l 立
+m 嘛
+n 哪
+q 期
+r 入
+s 随
+t 它
+u 试
+v 之
+w 位
+x 性
+z 子
+bc 宝
+bf 笨
+bg 甭
+bi 逼
+bw 备
+cd 猜
+da 达
+dc 道
+ds 东
+dz 逗
+ff 份
+fg 疯
+fu 复
+gc 搞
+gd 钙
+ge 哥
+gr 官
+gu 故
+hx 华
+hu 壶
+ie 扯
+ig 程
+iz 臭
+jb 今
+ji 极
+jm 贱
+ju 居
+jx 佳
+kz 抠
+lq 溜
+ma 骂
+mw 美
+ns 浓
+qi 弃
+qt 缺
+re 惹
+rf 忍
+rg 扔
+si 寺
+tc 淘
+tg 疼
+ti 替
+tm 舔
+ts 通
+tv 退
+ug 省
+ui 室
+uz 守
+vc 招
+vg 症
+vj 战
+vs 终
+wf 文
+wh 忘
+wj 玩
+ww 未
+xb 心
+xk 型
+xs 凶
+yb 隐
+ye 野
+yh 杨
+yj 严
+yr 园
+yz 友
+zc 遭
+zz 揍
+zo 坐
+dv 堆
+
+# 符号
+oa ！
+ob %
+ob 一
+ob 丨
+ob 丿
+ob 丶
+ob 乛
+ob 乀
+oba 鱼
+obb 冖
+obb 宀
+obb 丷
+obb 疒
+obb 勹
+obb 比左部
+obc 艹
+obc 廾
+obd 冫
+obd 氵
+obd 
+obd 刂
+obe 阝
+obe 卩
+obe 彐
+obe 山
+obe 见下部
+obf 扌
+obf 寿带上部
+obf 
+obf 缶
+obg 既左部
+obg 艮
+obg 鬼
+obg 革
+obg 骨
+obh 灬
+obh 虍
+obh 黑
+obh 余下部
+obi 彳
+obi 亍
+obi 虫
+obj 钅
+obj 金
+obj 
+obk 匚
+obk 冂
+obk 凵
+obk 囗
+obk 㠯
+obl 耂
+obl 立
+obl 龙
+obm 朩
+obn 
+obn 牜
+obo 日
+obo 月
+obo 目
+obp 礻
+obp 衤
+obq 犭
+obq 求
+obq 具其上部
+obr 亻
+obs 纟
+obs 厶
+obs 
+obs 罒
+obt 田
+obu 饣
+obu 
+obu 
+obu 氺
+obu 石
+obv 
+obv 豸
+obw 亠
+obw 夂
+obw 攵
+obw 文
+obx 忄
+obx 乂
+obx ⺍
+obx 
+obx 
+oby 讠
+oby 
+oby 
+oby 衣底
+oby 羊
+obz 
+obz 廴
+obz 辶
+oc ”
+od 、
+oh （
+oi 😊
+oj ）
+ok 《
+ol 》
+on ‘
+om ’
+of 成组符号btu...
+ofb 成组标点d
+ofbd “”
+ofbd （）
+ofbd 《》
+ofbd 〈〉
+ofbd 〔〕
+ofbd ‘’
+ofbd 「」
+ofbd 『』
+ofbd 【】
+ofbd 〖〗
+ofbd ［］
+ofbd ｛｝
+ofbd ．
+ofbd 。
+ofbd ，
+ofbd 、
+ofbd ；
+ofbd ：
+ofbd ？
+ofbd ！
+ofbd …
+ofbd —
+ofbd ·
+ofbd ˉ
+ofbd ˇ
+ofbd ¨
+ofbd 々
+ofbd ～
+ofbd ‖
+ofbd ∶
+ofbd ＂
+ofbd 
+ofbd ｀
+ofbd ｜
+ofd 成组点数u
+ofdu ⒈
+ofdu ⒉
+ofdu ⒊
+ofdu ⒋
+ofdu ⒌
+ofdu ⒍
+ofdu ⒎
+ofdu ⒏
+ofdu ⒐
+ofdu ⒑
+ofdu ⒒
+ofdu ⒓
+ofdu ⒔
+ofdu ⒕
+ofdu ⒖
+ofdu ⒗
+ofdu ⒘
+ofdu ⒙
+ofdu ⒚
+ofdu ⒛
+ofd 成组单位w
+ofdw ㎎
+ofdw ㎏
+ofdw ㎜
+ofdw ㎝
+ofdw ㎞
+ofdw ㎡
+ofdw nm
+ofdw μm
+ofdw μg
+ofdw ㏄
+ofdw ㏎
+ofdw ㏑
+ofdw ㏒
+ofdw ㏕
+ofe 成组俄大d
+ofed А
+ofed Б
+ofed В
+ofed Г
+ofed Д
+ofed Е
+ofed Ж
+ofed З
+ofed И
+ofed Й
+ofed К
+ofed Л
+ofed М
+ofed Н
+ofed О
+ofed П
+ofed Р
+ofed С
+ofed Т
+ofed У
+ofed Ф
+ofed Х
+ofed Ц
+ofed Ч
+ofed Ш
+ofed Щ
+ofed Ъ
+ofed Ы
+ofed Ь
+ofed Э
+ofed Ю
+ofed Я
+ofed Ё
+ofe 成组俄小x
+ofex а
+ofex б
+ofex в
+ofex г
+ofex д
+ofex е
+ofex ж
+ofex з
+ofex и
+ofex й
+ofex к
+ofex л
+ofex м
+ofex н
+ofex о
+ofex п
+ofex р
+ofex с
+ofex т
+ofex у
+ofex ф
+ofex х
+ofex ц
+ofex ч
+ofex ш
+ofex щ
+ofex ъ
+ofex ы
+ofex ь
+ofex э
+ofex ю
+ofex я
+ofex ё
+ofk 成组括数
+ofku ⑴
+ofku ⑵
+ofku ⑶
+ofku ⑷
+ofku ⑸
+ofku ⑹
+ofku ⑺
+ofku ⑻
+ofku ⑼
+ofku ⑽
+ofku ⑾
+ofku ⑿
+ofku ⒀
+ofku ⒁
+ofku ⒂
+ofku ⒃
+ofku ⒄
+ofku ⒅
+ofku ⒆
+ofku ⒇
+ofh 成组货币b
+ofhb €
+ofhb $
+ofhb ￠
+ofhb £
+ofhb ￡
+ofhb ¥
+ofhb ￥
+ofhb ฿
+ofht ═
+ofht ║
+ofht ╧
+ofht ╪
+ofht ╤
+ofht ╡
+ofht ╞
+ofht ▁
+ofht ╕
+ofht ╒
+ofht ╛
+ofht ╘
+ofr 成组日大d
+ofrd ァ
+ofrd ア
+ofrd ィ
+ofrd イ
+ofrd ゥ
+ofrd ウ
+ofrd ェ
+ofrd エ
+ofrd ォ
+ofrd オ
+ofrd カ
+ofrd ガ
+ofrd キ
+ofrd ギ
+ofrd ク
+ofrd グ
+ofrd ケ
+ofrd ゲ
+ofrd コ
+ofrd ゴ
+ofrd サ
+ofrd ザ
+ofrd シ
+ofrd ジ
+ofrd ス
+ofrd ズ
+ofrd セ
+ofrd ゼ
+ofrd ソ
+ofrd ゾ
+ofrd タ
+ofrd ダ
+ofrd チ
+ofrd ヂ
+ofrd ッ
+ofrd ツ
+ofrd ヅ
+ofrd テ
+ofrd デ
+ofrd ト
+ofrd ド
+ofrd ナ
+ofrd ニ
+ofrd ヌ
+ofrd ネ
+ofrd ノ
+ofrd ハ
+ofrd バ
+ofrd パ
+ofrd ヒ
+ofrd ビ
+ofrd ピ
+ofrd フ
+ofrd ブ
+ofrd プ
+ofrd ヘ
+ofrd ベ
+ofrd ペ
+ofrd ホ
+ofrd ボ
+ofrd ポ
+ofrd マ
+ofrd ミ
+ofrd ム
+ofrd メ
+ofrd モ
+ofrd ャ
+ofrd ヤ
+ofrd ュ
+ofrd ユ
+ofrd ョ
+ofrd ヨ
+ofrd ラ
+ofrd リ
+ofrd ル
+ofrd レ
+ofrd ロ
+ofrd ヮ
+ofrd ワ
+ofrd ヰ
+ofrd ヱ
+ofrd ヲ
+ofrd ン
+ofrd ヴ
+ofrd ヵ
+ofrd ヶ
+ofrd ー
+ofrd ヽ
+ofrd ヾ
+ofj 成组箭头t
+ofjt ←
+ofjt →
+ofjt ↑
+ofjt ↓
+ofjt ↗
+ofjt ↙
+ofjt ↘
+ofjt ↖
+ofjt ↔
+ofjt ↕
+ofr 成组日小x
+ofrx ぁ
+ofrx あ
+ofrx ぃ
+ofrx い
+ofrx ぅ
+ofrx う
+ofrx ぇ
+ofrx え
+ofrx ぉ
+ofrx お
+ofrx か
+ofrx が
+ofrx き
+ofrx ぎ
+ofrx ぱ
+ofrx く
+ofrx ぐ
+ofrx け
+ofrx げ
+ofrx こ
+ofrx ご
+ofrx さ
+ofrx ざ
+ofrx し
+ofrx じ
+ofrx す
+ofrx ず
+ofrx せ
+ofrx ぜ
+ofrx そ
+ofrx ぞ
+ofrx た
+ofrx だ
+ofrx ち
+ofrx ぢ
+ofrx っ
+ofrx つ
+ofrx づ
+ofrx て
+ofrx で
+ofrx と
+ofrx ど
+ofrx な
+ofrx に
+ofrx ぬ
+ofrx ね
+ofrx の
+ofrx は
+ofrx ば
+ofrx ひ
+ofrx び
+ofrx ぴ
+ofrx ふ
+ofrx ぶ
+ofrx ぷ
+ofrx へ
+ofrx べ
+ofrx ぺ
+ofrx ほ
+ofrx ぼ
+ofrx ぽ
+ofrx ま
+ofrx み
+ofrx む
+ofrx め
+ofrx も
+ofrx ゃ
+ofrx や
+ofrx ゅ
+ofrx ゆ
+ofrx ょ
+ofrx よ
+ofrx ら
+ofrx り
+ofrx る
+ofrx れ
+ofrx ろ
+ofrx ゎ
+ofrx わ
+ofrx ゐ
+ofrx ゑ
+ofrx を
+ofrx ん
+ofrx ゛
+ofrx ゜
+ofrx ゝ
+ofrx ゞ
+ofp 成组偏旁p
+ofpp 勹
+ofpp 灬
+ofpp 冫
+ofpp 艹
+ofpp 屮
+ofpp 辶
+ofpp 刂
+ofpp 匚
+ofpp 阝
+ofpp 廾
+ofpp 丨
+ofpp 虍
+ofpp 彐
+ofpp 卩
+ofpp 钅
+ofpp 冂
+ofpp 冖
+ofpp 宀
+ofpp 疒
+ofpp 肀
+ofpp 丿
+ofpp 攵
+ofpp 凵
+ofpp 犭
+ofpp 亻
+ofpp 彡
+ofpp 饣
+ofpp 礻
+ofpp 扌
+ofpp 氵
+ofpp 纟
+ofpp 亠
+ofpp 囗
+ofpp 忄
+ofpp 讠
+ofpp 衤
+ofpp 廴
+ofpp 尢
+ofpp 夂
+ofpp 丶
+ofpp 丬
+ofp 成组拼音y
+ofpy ā
+ofpy á
+ofpy ǎ
+ofpy à
+ofpy ō
+ofpy ó
+ofpy ǒ
+ofpy ò
+ofpy ê
+ofpy ē
+ofpy é
+ofpy ě
+ofpy è
+ofpy ī
+ofpy í
+ofpy ǐ
+ofpy ì
+ofpy ǖ
+ofpy ǘ
+ofpy ǚ
+ofpy ǜ
+ofpy ü
+ofpy ū
+ofpy ú
+ofpy ǔ
+ofpy ù
+ofl 成组罗大d
+ofld Ⅰ
+ofld Ⅱ
+ofld Ⅲ
+ofld Ⅳ
+ofld Ⅴ
+ofld Ⅵ
+ofld Ⅶ
+ofld Ⅷ
+ofld Ⅸ
+ofld Ⅹ
+ofld Ⅺ
+ofld Ⅻ
+ofl 成组罗小x
+oflx ⅰ
+oflx ⅱ
+oflx ⅲ
+oflx ⅳ
+oflx ⅴ
+oflx ⅵ
+oflx ⅶ
+oflx ⅷ
+oflx ⅸ
+oflx ⅹ
+oft 成组特殊u
+oftu ℃
+oftu °
+oftu ‰
+oftu ♂
+oftu ♀
+oftu §
+oftu №
+oftu ☆
+oftu ★
+oftu ○
+oftu ●
+oftu ◎
+oftu ◇
+oftu ◆
+oftu □
+oftu ■
+oftu △
+oftu ▲
+oftu ※
+oftu 〓
+oftu ＃
+oftu ＆
+oftu ＠
+oftu ＼
+oftu ＾
+oftu ＿
+oftu ￣
+ofu 成组数学x
+ofux ＋
+ofux －
+ofux ＜
+ofux ＝
+ofux ＞
+ofux ±
+ofux ×
+ofux ÷
+ofux ∈
+ofux ∏
+ofux ∑
+ofux ∕
+ofux √
+ofux ∝
+ofux ∞
+ofux ∟
+ofux ∠
+ofux ∣
+ofux ∥
+ofux ∧
+ofux ∨
+ofux ∩
+ofux ∪
+ofux ∫
+ofux ∮
+ofux ∴
+ofux ∵
+ofux ∶
+ofux ∷
+ofux ∽
+ofux ≈
+ofux ≌
+ofux ≒
+ofux ≠
+ofux ≡
+ofux ≤
+ofux ≥
+ofux ≦
+ofux ≧
+ofux ≮
+ofux ≯
+ofux ⊕
+ofux ⊙
+ofux ⊥
+ofux ⊿
+ofv 成组中数u
+ofvu ㈠
+ofvu ㈡
+ofvu ㈢
+ofvu ㈣
+ofvu ㈤
+ofvu ㈥
+ofvu ㈦
+ofvu ㈧
+ofvu ㈨
+ofvu ㈩
+ofv 成组注音y
+ofvy ㄅ
+ofvy ㄆ
+ofvy ㄇ
+ofvy ㄈ
+ofvy ㄉ
+ofvy ㄊ
+ofvy ㄋ
+ofvy ㄌ
+ofvy ㄍ
+ofvy ㄎ
+ofvy ㄏ
+ofvy ㄐ
+ofvy ㄑ
+ofvy ㄒ
+ofvy ㄓ
+ofvy ㄔ
+ofvy ㄕ
+ofvy ㄖ
+ofvy ㄗ
+ofvy ㄘ
+ofvy ㄙ
+ofvy ㄧ
+ofvy ㄨ
+ofvy ㄩ
+ofvy ㄚ
+ofvy ㄛ
+ofvy ㄜ
+ofvy ㄝ
+ofvy ㄞ
+ofvy ㄟ
+ofvy ㄠ
+ofvy ㄡ
+ofvy ㄢ
+ofvy ㄣ
+ofvy ㄤ
+ofvy ㄥ
+ofvy ㄦ
+ofx 成组西大d
+ofxd Α
+ofxd Β
+ofxd Γ
+ofxd Δ
+ofxd Ε
+ofxd Ζ
+ofxd Η
+ofxd Θ
+ofxd Ι
+ofxd Κ
+ofxd Λ
+ofxd Μ
+ofxd Ν
+ofxd Ξ
+ofxd Ο
+ofxd Π
+ofxd Ρ
+ofxd Σ
+ofxd Τ
+ofxd Υ
+ofxd Φ
+ofxd Χ
+ofxd Ψ
+ofxd Ω
+ofx 成组西小x
+ofxx α
+ofxx β
+ofxx γ
+ofxx δ
+ofxx ε
+ofxx ζ
+ofxx η
+ofxx θ
+ofxx ι
+ofxx κ
+ofxx λ
+ofxx μ
+ofxx ν
+ofxx ξ
+ofxx ο
+ofxx π
+ofxx ρ
+ofxx σ
+ofxx τ
+ofxx υ
+ofxx φ
+ofxx χ
+ofxx ψ
+ofxx ω
+ofy 成组圆数u
+ofyu ①
+ofyu ②
+ofyu ③
+ofyu ④
+ofyu ⑤
+ofyu ⑥
+ofyu ⑦
+ofyu ⑧
+ofyu ⑨
+ofyu ⑩
+ofv 成组制表b
+ofvb ┌
+ofvb └
+ofvb ┐
+ofvb ┘
+ofvb ─
+ofvb │
+ofvb ├
+ofvb ┤
+ofvb ┬
+ofvb ┴
+ofvb ┼
+ofu 成组上标b
+ofub ¹
+ofub ²
+ofub ³
+ofub ⁴
+ofub ⁵
+ofub ⁶
+ofub ⁷
+ofub ⁸
+ofub ⁹
+ofub ⁰
+ofub ⁺
+ofub ⁻
+ofub ⁼
+ofub ⁽
+ofub ⁾
+ofub ⁿ
+ofub ˣ
+ofx 成组下标b
+ofxb ₁
+ofxb ₂
+ofxb ₃
+ofxb ₄
+ofxb ₅
+ofxb ₆
+ofxb ₇
+ofxb ₈
+ofxb ₉
+ofxb ₀
+ofxb ₊
+ofxb ₋
+ofxb ₌
+ofxb ₍
+ofxb ₎
+ofxb ₙ
+ofxb ₓ
+op ～
+oq ‰
+os ……
+ota α
+otb β
+otb ©
+otc ℃
+otd °
+otd ＝
+otd ≠
+otd ≥
+otd ＞
+ote の
+otf ′
+otf □
+otf ■
+otf ◇
+otf ◆
+otg √
+otg γ
+oth ＆
+oth ※
+oth §
+oti ×
+oti ÷
+otj ＋
+otj －
+otj ±
+otl m³
+otm ″
+otm ﹩
+otm ￠
+otm ￡
+otn ♂
+otn ♀
+otn №
+oto €
+otp ㎡
+otp ∏
+otr ¥
+otr ￥
+ots ∴
+ots ∵
+ots △
+ots ▲
+ott ฿
+ott ℡
+otu ²
+otu ³
+otu ⁴
+otu ⁿ
+otu ™
+otv Φ
+otv ®
+otv ㈱
+otw ∞
+otw 卍
+otw 卐
+otx ₂
+otx ₃
+otx ₄
+otx ☆
+otx ★
+otx ≤
+otx ＜
+oty ·
+oty £
+oty ○
+oty ●
+ouud ℃
+ow ？
+oxa 凹
+oxb 百
+oxb 白
+oxb 八
+oxb 卜
+oxb 匕
+oxb 卞
+oxb 不
+oxb 巴
+oxb 本
+oxb 必
+oxb 丙
+oxb 半
+oxb 办
+oxc 寸
+oxc 才
+oxc 匆
+oxc 册
+oxd 大
+oxd 丁
+oxd 刀
+oxd 歹
+oxd 刁
+oxd 东
+oxd 丹
+oxd 电
+oxd 氐
+oxd 旦
+oxe 二
+oxe 耳
+oxe 儿
+oxe 而
+oxf 非
+oxf 方
+oxf 飞
+oxf 夫
+oxf 凡
+oxf 甫
+oxf 弗
+oxf 乏
+oxf 丰
+oxg 广
+oxg 弓
+oxg 戈
+oxg 工
+oxg 瓜
+oxg 干
+oxg 个
+oxg 甘
+oxg 丐
+oxg 果
+oxg 更
+oxg 亘
+oxg 夬
+oxh 禾
+oxh 户
+oxh 互
+oxh 乎
+oxh 火
+oxi 川
+oxi 厂
+oxi 车
+oxi 长
+oxi 叉
+oxi 尺
+oxi 丑
+oxi 臣
+oxi 成
+oxi 垂
+oxi 斥
+oxi 串
+oxi 产
+oxi 出
+oxj 巾
+oxj 几
+oxj 九
+oxj 斤
+oxj 久
+oxj 巨
+oxj 己
+oxj 井
+oxj 及
+oxj 夹
+oxj 甲
+oxj 臼
+oxj 韭
+oxj 戋
+oxj 柬
+oxj 击
+oxk 口
+oxk 开
+oxk 亏
+oxl 了
+oxl 力
+oxl 乐
+oxl 来
+oxl 良
+oxl 两
+oxl 里
+oxl 吏
+oxl 耒
+oxl 卵
+oxl 丽
+oxm 木
+oxm 毛
+oxm 米
+oxm 门
+oxm 马
+oxm 皿
+oxm 末
+oxm 灭
+oxm 母
+oxm 民
+oxm 么
+oxm 面
+oxn 廿
+oxn 女
+oxn 牛
+oxn 鸟
+oxn 乃
+oxn 内
+oxn 农
+oxn 年
+oxp 片
+oxp 平
+oxp 爿
+oxq 七
+oxq 千
+oxq 犬
+oxq 且
+oxq 丘
+oxq 曲
+oxq 气
+oxq 乞
+oxr 人
+oxr 入
+oxr 冉
+oxr 壬
+oxr 刃
+oxs 三
+oxs 巳
+oxs 肃
+oxt 土
+oxt 天
+oxt 太
+oxt 屯
+oxu 十
+oxu 尸
+oxu 士
+oxu 手
+oxu 身
+oxu 水
+oxu 上
+oxu 少
+oxu 术
+oxu 失
+oxu 生
+oxu 世
+oxu 申
+oxu 史
+oxu 升
+oxu 事
+oxu 书
+oxu 束
+oxu 勺
+oxu 戍
+oxu 豕
+oxu 氏
+oxu 矢
+oxv 止
+oxv 爪
+oxv 主
+oxv 舟
+oxv 之
+oxv 正
+oxv 丈
+oxv 中
+oxv 专
+oxv 朱
+oxv 州
+oxv 重
+oxv 乍
+oxw 王
+oxw 瓦
+oxw 五
+oxw 无
+oxw 万
+oxw 午
+oxw 卫
+oxw 亡
+oxw 未
+oxw 乌
+oxw 韦
+oxw 勿
+oxw 为
+oxw 戊
+oxw 我
+oxw 丸
+oxw 兀
+oxx 小
+oxx 西
+oxx 心
+oxx 血
+oxx 下
+oxx 夕
+oxx 乡
+oxx 习
+oxx 戌
+oxy 又
+oxy 酉
+oxy 已
+oxy 于
+oxy 义
+oxy 与
+oxy 夭
+oxy 玉
+oxy 牙
+oxy 丫
+oxy 永
+oxy 尤
+oxy 也
+oxy 业
+oxy 由
+oxy 央
+oxy 亚
+oxy 严
+oxy 用
+oxy 幺
+oxy 禺
+oxy 臾
+oxy 尹
+oxy 禹
+oxy 夷
+oxy 弋
+oxy 聿
+oxy 雨
+oxz 再
+oxz 自
+oxz 子
+oyy ①
+oye ②
+oys ③
+oyd ④
+oyw ⑤
+oyl ⑥
+oyq ⑦
+oyb ⑧
+oyj ⑨
+oyu ⑩
+oyy Ⅰ
+oye Ⅱ
+oys Ⅲ
+oyd Ⅳ
+oyw Ⅴ
+oyl Ⅵ
+oyq Ⅶ
+oyb Ⅷ
+oyj Ⅸ
+oyu Ⅹ
+oz “
+
+# 临时生僻字
+dal/ 龘
+dii/ 䗖
+dsi/ 𬟽
+diy/ 𬤊
+ffr/ 偾
+qid/ 汔
+wux/ 怃
+yui/ 蝓
+ssd/ 凇
+yik/ 匜
+yue/ 嵎
+yua/ 彧
+xix/ 恓
+qix/ 恓
+xpf/ 揳
+guu/ 榖
+jbd/ 浕
+uid/ 湜
+xpd/ 澥
+xrh/ 烜
+hsu/ 翃
+tsn/ 㛚
+yuw/ 玙
+yuw/ 瑀
+yuw/ 琟
+yuw/ 敔
+qip/ 祇
+vip/ 祇
+luv/ 舻
+huu/ 縠
+yzy/ 羑
+hvx/ 翚
+juc/ 蒟
+xiu/ 豨
+dyz/ 蹾
+mwv/ 郿
+wuj/ 铻
+mog/ 靺
+mgc/ 鹲
+jsb/ 颎
+gou/ 馃
+qmd/ 鹐
+biu/ 襞
+bwl/ 邶
+jic/ 蒺
+jid/ 殛
+jid/ 剞
+lic/ 蓠
+mcs/ 蟊
+vif/ 摭
+vud/ 潴
+xpd/ 渫
+qmb/ 褰
+wud/ 鋈
+yjy/ 谳
+yus/ 纡
+yzi/ 蚰
+jrj/ 锩
+mob/ 瘼
+ucv/ 筲
+uuh/ 秫
+uuw/ 琡
+yri/ 螈
+gui/ 蛄
+jqm/ 桕
+lia/ 鲡
+lic/ 苈
+lik/ 呖
+piu/ 鼙
+qim/ 桤
+qnx/ 愀
+thd/ 溏
+vii/ 轾
+vip/ 卮
+wwd/ 洧
+wwd/ 沩
+wwe/ 隈
+xic/ 葸
+xii/ 螅
+yur/ 伛
+ykd/ 潆
+vuq/ 橥
+xpm/ 榍
+qid/ 欹
+jnr/ 僬
+low/ 蠃
+ujt/ 埏
+bic/ 萆
+biv/ 舭
+gun/ 牿
+guu/ 嘏
+hud/ 冱
+jmm/ 楗
+xrb/ 痃
+yub/ 窬
+yuy/ 邘
+jir/ 伋
+dnd/ 汈
+fjd/ 氾
+rfy/ 讱
+hjf/ 扞
+lim/ 朸
+xiy/ 䜣
+xby/ 䜣
+yby/ 䜣
+qiw/ 玘
+vif/ 扺
+xuo/ 旴
+qmd/ 汧
+yyd/ 沄
+bid/ 沘
+xsy/ 诇
+jpb/ 岊
+uur/ 鄃
+gsc/ 䢼
+vic/ 茋
+bic/ 苾
+jim/ 枅
+yim/ 枍
+bik/ 咇
+xio/ 肸
+dou/ 饳
+vid/ 泜
+jxd/ 泇
+yiy/ 酏
+jit/ 垍
+wuw/ 郚
+uia/ 䴓
+lso/ 昽
+zii/ 虸
+tsk/ 哃
+wwe/ 峗
+pkj/ 帡
+xkj/ 钘
+xir/ 俙
+xiu/ 饻
+sed/ 洓
+qid/ 洓
+zid/ 洓
+uid/ 浉
+yid/ 洢
+uip/ 祏
+jin/ 姞
+gvn/ 姽
+ybm/ 骃
+bnm/ 骉
+glw/ 珖
+liw/ 珕
+but/ 埗
+lvm/ 梠
+xro/ 晅
+xuo/ 冔
+xuk/ 冔
+fhi/ 蚄
+bhi/ 蚄
+xme/ 崄
+ufu/ 甡
+pav/ 舥
+hvh/ 烠
+tkh/ 烶
+yjh/ 烻
+bod/ 浡
+lid/ 浬
+yyd/ 涢
+lid/ 浰
+yzd/ 浟
+did/ 浟
+hjd/ 浛
+yih/ 扅
+yih/ 扆
+isx/ 翀
+xkm/ 骍
+wuw/ 珸
+xrw/ 琄
+qit/ 埼
+qia/ 炁
+yiu/ 勚
+lhm/ 桹
+yji/ 厣
+xxj/ 翈
+vij/ 铚
+hlb/ 㿠
+yuy/ 鄅
+qkg/ 庼
+vib/ 痓
+jkl/ 竫
+yud/ 汩
+xkn/ 婞
+ykn/ 媖
+bww/ 琲
+www/ 琟
+yct/ 㙘
+ufm/ 棽
+yum/ 棫
+bib/ 皕
+xio/ 睎
+eee/ 崿
+hve/ 翙
+vzk/ 赒
+dhv/ 筜
+uer/ 畬
+yur/ 畬
+guu/ 馉
+lid/ 凓
+jum/ 椐
+wub/ 痦
+aof/ 嶅
+wug/ 靰
+yim/ 椸
+yid/ 潩
+xuy/ 醑
+xiu/ 屃
+xib/ 穸
+vfo/ 昣
+sid/ 凘
+qmt/ 墘
+mcc/ 鄚
+ijj/ 刬
+ifm/ 棽
+hrj/ 镮
+hdk/ 咍
+bjb/ 攽
+bom/ 欂
+bwg/ 鞁
+cjh/ 䅟
+zid/ 粢
+cid/ 粢
+mwd/ 渼
+lzd/ 溇
+xud/ 湑
+yjh/ 扊
+xms/ 缐
+xkw/ 瑆
+hlw/ 瑝
+puc/ 蒱
+qtu/ 碏
+xiu/ 碏
+xro/ 暅
+viz/ 跱
+jpi/ 蜐
+ykj/ 锳
+yyv/ 筼
+grv/ 筦
+yuv/ 艅
+gzb/ 雊
+sij/ 飔
+yiw/ 裛
+wwh/ 煟
+wwd/ 溦
+jnd/ 滘
+vid/ 滍
+dip/ 禘
+vfw/ 瑧
+jbw/ 瑨
+isf/ 摏
+bnj/ 幖
+hlj/ 锽
+bih/ 馝
+jnd/ 漖
+gjd/ 㽏
+yup/ 褕
+vfp/ 禛
+iiw/ 漦
+yyc/ 蕰
+yia/ 鹝
+vay/ 霅
+hcb/ 皞
+hlv/ 艎
+jid/ 觭
+qid/ 觭
+jid/ 鹡
+yib/ 鹢
+jtd/ 㵐
+yud/ 潏
+jpp/ 褯
+jkw/ 璥
+xiu/ 憙
+yjh/ 虤
+jih/ 穄
+jmv/ 篯
+xih/ 熻
+ifm/ 榇
+yih/ 燚
+lkd/ 澪
+jud/ 澽
+jnw/ 璬
+yik/ 繄
+dmu/ 磹
+svh/ 穟
+iuj/ 斶
+xip/ 谿
+wwa/ 鳂
+wwu/ 螱
+moc/ 藦
+yji/ 黡
+tki/ 䗴
+yug/ 髃
+pdv/ 簰
+uij/ 鼫
+jnb/ 皦
+lbm/ 翷
+zgb/ 䎖
+ijp/ 襜
+piu/ 嚭
+vui/ 蠋
+yjn/ 嬿
+xie/ 酅
+jid/ 瀱
+uip/ 襫
+xlw/ 瓖
+yth/ 爚
+npc/ 糵
+miy/ 醾
+fup/ 祓
+kdm/ 闿
+luv/ 簏
+qih/ 綮
+qqi/ 蝤
+wud/ 浯
+xip/ 禊
+xrk/ 咺
+ybt/ 堙
+yix/ 悒
+yix/ 怿
+yub/ 瘐
+biz/ 跸
+bmv/ 笾
+bul/ 瓿
+bwp/ 褙
+bwu/ 孛
+bou/ 孛
+cvm/ 毳
+djv/ 箪
+gud/ 觚
+hck/ 嚆
+hck/ 嗥
+huh/ 烀
+huu/ 觳
+ifh/ 煁
+ihx/ 氅
+iid/ 鸱
+isv/ 艟
+ium/ 楮
+izr/ 雠
+jil/ 乩
+jmb/ 謇
+jnb/ 敫
+ldj/ 铼
+lim/ 枥
+ljd/ 漤
+mcs/ 蝥
+mmo/ 眄
+qbk/ 吣
+qkh/ 綮
+tvh/ 煺
+ufy/ 诜
+uih/ 炻
+ujy/ 鄯
+ujc/ 芟
+uud/ 澍
+vfd/ 浈
+viz/ 跖
+vud/ 澍
+vuv/ 邾
+wuj/ 鼯
+wum/ 杌
+xij/ 舄
+xim/ 粞
+xmu/ 燹
+yhi/ 蛘
+yiz/ 劓
+yjk/ 郾
+yry/ 羱
+yuh/ 燠
+diy/ 羝
+diw/ 玓
+ijd/ 浐
+jbk/ 赆
+jic/ 芰
+jpg/ 骱
+lii/ 轹
+ruy/ 颥
+thj/ 铴
+ugu/ 眚
+uuj/ 殳
+vak/ 咤
+vhl/ 鄣
+vsv/ 舯
+xic/ 菥
+xmv/ 筅
+yij/ 镱
+yjt/ 埏
+ziv/ 赀
+jbw/ 琎
+dau/ 鿎
+yjm/ 梴
+ijm/ 梴
+yjm/ 阏
+vip/ 氏
+kek/ 匼
+thg/ 鄌
+ujj/ 钐
+uzv/ 艏
+qqj/ 𨱇
+viy/ 黹
+qkx/ 𬒈
+ium/ 樗
+iam/ 𥻗
+yud/ 㳚
+bjw/ 𨭉
+guc/ 蓇
+guc/ 䓛
+fuc/ 䓛
+djd/ 澹
+
+# 随心所欲  按自己想法编码的词条
+yxk 音形
+jva 截至
+jdi 觉得
+jjd 简洁
+jlv 精力
+ulw 梳理
+uub 事实
+jya 基于
+vdd 置顶
+xxm 想想
+viud 智
+jiyd 计
+jysi 床前明月光，疑是地上霜。举头望明月，低头思故乡。
+
+# 增补字  增补通用字表外日常可能用到的字
+aift 捱
+bkfb 抦
+baub 㞎
+bgfu 揼
+biub 屄
+bokt 噃
+ccrr 肏
+diku 啲
+diky 哋
+dirp 俤
+dkfr 掟
+dnuj 屌
+dzku 唞
+eiyu 诶
+enbd 奀
+ffoi 瞓
+gekv 嘅
+gjkg 咁
+gvul 攰
+gxkb 啩
+gocg 菓
+gakm 㗎
+hdkt 嚡
+hlub 磺
+ieki 唓
+jmkz 囝
+kjbe 冚
+lbbm 冧
+lbml 粦
+liku 嚟
+ljzj 躝
+lkvv 〇
+loff 攞
+mbpx 慜
+mcuk 冇
+mgdn 濛
+mgdu 濛
+mgfm 擝
+mpfh 搣
+mwkm 槑
+nmkx 唸
+naku 嗱
+ncnn 嫐
+njkz 囝
+nlny 孃
+nmfh 撚
+nmxx 惗
+nntl 嬲
+paub 㞎
+pkkp 呯
+pbm 榀
+pwwj 珮
+qbih 螓
+qquq 㞗
+qurj 佢
+rroe 朊
+royy 叒
+sdkr 嘥
+sdkx 嗮
+ssur 𪨊
+thxd 劏
+ticf 薙
+vekh 嗻
+vdv 砦
+wffm 揾
+xial 卌
+xikx 喺
+xirx 係
+yekl 嘢
+yeky 吔
+zokg 咗
+jskv 囧
