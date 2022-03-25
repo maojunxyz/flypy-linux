@@ -1,0 +1,5 @@
+= Fcitx/Ibus rime挂接说明
+
+== todo
+
+[] 更新操作步骤
