@@ -1,5 +1,157 @@
-= Fcitx/Ibus rime挂接说明
+= fcitx/fcitx5/ibux挂接说明
 
-== todo
+WARNING: fcitx分4和5版本，默认fcitx的版本是fcitx4（以下fcitx默认指fcitx4),安装fcitx5才是5.但是版本显示都是4.xx。
 
-[] 更新操作步骤
+== fcitx安装
+以下安装步骤仅限与使用Pacman作为包管理的GNU/Linux发型版，如Archlinux及衍生版本Manjaro等，如果你使用其他 GNU/Linux发型版如Ubuntu等，请自行根据系统环境同步调整安装步骤。
+
+=== Pacman包管理
+安装fcitx(4)及fcitx配置工具:
+
+```sh
+$ sudo pacman -S fcitx-rime
+$ sudo pacman -S fcitx-configtool
+```
+
+你也可以使用yay等工具替代pacman作为包管理工具。
+
+```sh
+$ sudo yay fcitx-rime
+$ sudo yay fcitx-configtool
+```
+
+== 小鹤双拼挂载
+
+将GNU/Linux版本的小鹤双拼文件下载后，进入rime-data文件夹。 将rime-data目录下的文件复制到用户目录下的Rime配置rime-data文件夹。
+
+```sh
+$ cd rime-data
+$ cp -r * ~/.config/fcitx/rime
+```
+
+WARNING: 不要将配置文件移动到系统配置目录 /usr/share/rime-data/
+
+复制个人配置文件
+
+```sh
+$ cp default.yaml default.custome.yaml
+```
+
+WARNING: 不要直接编辑default.yaml配置文件，不然以后更新时会被覆盖。
+
+重启fcitx,并切换到rime输入法。(右键fcitx托盘重启和选择输入法）。
+
+到了这一步，就可以使用fcitx-rime小鹤双拼了。
+
+=== fcitx-rime日志
+
+日志在/tmp下，以rime.fcitx-rime开头。
+
+最新的日志对应着3个软链接文件，可以直接查询对应不同的日志级别日志:
+
+```sh
+$ cat rime.fcitx-rime.ERROR  # 错误级别
+$ cat rime.fcitx-rime.INFO  # 普通级别
+$ catrime.fcitx-rime.WARNING # 警告级别
+```
+
+直接查看错误级别的日志信息:
+
+```sh
+$ tail -f  rime.fcitx-rime.ERROR
+Log file created at: 2019/12/18 17:33:01
+Running on machine: maojun-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1218 17:33:01.904620 19037 dict_compiler.cc:46] source file '/home/maojun/.config/fcitx/rime/flypy.dict.yaml' does not exist.
+E1218 17:33:01.916185 19037 dict_compiler.cc:46] source file '/home/maojun/.config/fcitx/rime/flypyplus.dict.yaml' does not exist.
+E1218 17:33:02.072552 19021 engine.cc:349] error creating translator: 'lua_translator'
+E1218 17:33:02.072582 19021 engine.cc:349] error creating translator: 'lua_translator'
+```
+
+发现有有码表文件不存在错误和lua脚本加载错误。
+
+码表文件不存在问题是由于rime加载的目录的用户配置主目录，而码表文件在build文件中,把build文件夹下的所有bin文件移到上一层即可。
+
+```sh
+$ cd rime-date/build
+$ mv *.bin ..
+```
+
+TIP: 具体讨论可以参考: https://flypy.com/bbs/forum.php?mod=redirect&goto=findpost&ptid=516&pid=2354
+
+== fcitx配置
+
+美化设置:
+
+fcitx用户目录位置：
+
+```sh
+~/.config/fcitx/rime/             
+```
+
+rime的皮肤用的是fcitx的皮肤，自定义皮肤目录为:
+
+```sh
+$ ~/.config/fcitx/skin
+```
+
+WARNING: 如果没有目录直接创建一个或者从系统皮肤文件夹复制一份~~/usr/share/fcitx/skin~~ 但不要直接在系统配置文件上修改
+
+== rime配置
+禁用Rime的英文模式 rime的英文模会将Shift键触发为rime的英文模式。 从输入方案中 engine/processor列表里注释掉ascii_composer
+
+== fcitx5安装
+
+=== 安装fcitx5-rime
+
+```sh
+$ sudo pacman -S fcitx5-git fcitx5-gtk-git fcitx5-qt5-git fcitx5-rime-git
+```
+
+=== 安装rime-lua
+
+卸载老的librime(需编译集成lua插件支持）
+
+```sh
+$ sudo pacman -Rdd librime
+```
+
+WARNING: 此步骤非必须，如果你需要让rime支持lua插件则需要此步骤。
+
+
+编译安装librime和librime-lua插件：
+
+```sh
+$ git clone https://github.com/rime/librime.git
+$ cd librime
+$ git checkout 1.5.3  # （注意,在测试时主干版本有问题需要切换到1.5.3,后续可能修复则此步骤非必须）
+$ ./install-plugins.sh hchunhui/librime-lua
+$ make merged-plugins
+$sudo make install
+```
+
+注意，安装并配置了让Rime支持Lua插件。如果用Fcitx4安装会无法启动报错。用Fcit5安装需要先卸载通过二进制包安装的librime,然后手动从源码编译lua插件并安装。 参考：https://github.com/hchunhui/librime-lua/issues/25#issue-540065284
+
+
+=== Fcitx5配置
+
+fcitx5的配置在:
+
+```sh
+~/.config/fcitx5
+```
+
+WARNING: 修改配置的时候先关闭Fcitx5,否则重启Fcitx5时配置会被重置。
+
+
+fcitx5的词库目录及皮肤主题目录在:
+
+```sh
+~/.local/share/fcitx5
+```
+
+
+
+
+
+
