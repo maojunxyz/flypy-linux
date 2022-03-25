@@ -23,32 +23,34 @@ https://help.flypy.com	xhrm
 ）	;r
 @	;t
 ·	;y
-＝	;u
-〈	;i
-〉	;o
-～	;p
++	;u
+-	;i
+*	;o
+/	;p
 ！	;a
 ……	;s
 、	;d
 《	;g
-＋	;h
-－	;j
-×	;k
-÷	;l
+[	;h
+]	;j
+(	;k
+)	;l
 “	;z
 →	;x
 ”	;c
 ——	;v
 》	;b
-〔	;n
-〕	;m
+<	;n
+>	;m
 #次选词
+安装	av
 爱恨情仇	ahqi
 暗器	anqi
 背景	bj
 北戴河	bdh
 帮倒忙	bdm
 百分之	bfv
+白胡椒	bhj
 半成品	bip
 笔记本	bjb
 不客气	bkq
@@ -127,6 +129,7 @@ https://help.flypy.com	xhrm
 不明所以	bmsy
 贬值	bmvi
 拔苗助长	bmvv
+便携	bmxp
 编译	bmyi
 闭门造车	bmzi
 百年大计	bndj
@@ -169,6 +172,8 @@ https://help.flypy.com	xhrm
 璀璨	cvcj
 达到	dd
 电脑	dn
+打算	ds
+等着	dv
 大多数	ddu
 打火机	dhj
 导火线	dhx
@@ -179,7 +184,6 @@ https://help.flypy.com	xhrm
 大错	daco
 大涨	davh
 大侠	daxx
-打赢	dayk
 打草惊蛇	dcju
 多此一举	dcyj
 单打独斗	dddd
@@ -205,7 +209,6 @@ https://help.flypy.com	xhrm
 大吵大闹	didn
 低端	didr
 嫡亲	diqb
-洞察秋毫	diqh
 底气	diqi
 多愁善感	diug
 独出心裁	dixc
@@ -217,6 +220,7 @@ https://help.flypy.com	xhrm
 打家劫舍	djju
 独具匠心	djjx
 单元	djyr
+大门不出	dmbi
 点播	dmbo
 独门独户	dmdh
 独门独院	dmdy
@@ -224,12 +228,14 @@ https://help.flypy.com	xhrm
 调令	dnlk
 冬暖夏凉	dnxl
 夺命	domk
+颠三倒四	dsds
 洞房	dsfh
 东京	dsjk
 第三季度	dsjd
 董事	dsui
 动手动脚	dudj
 度假	dujx
+独具	duju
 独善其身	duqu
 打蛇随棍上	dusu
 大书特书	dutu
@@ -241,6 +247,8 @@ https://help.flypy.com	xhrm
 俄语	eeyu
 恩恩怨怨	eeyy
 分别	fb
+分钟	fv
+反悔	fh
 附件	fj
 发送	fs
 否则	fz
@@ -266,7 +274,6 @@ https://help.flypy.com	xhrm
 纺织	fhvi
 防患于未然	fhyr
 分久必合	fjbh
-福建省	fjug
 凡事	fjui
 翻越	fjyt
 飞来飞去	flfq
@@ -287,6 +294,7 @@ https://help.flypy.com	xhrm
 公司	gs
 更新	gx
 规则	gz
+跟着	gv
 关节炎	gjy
 高山族	guz
 感兴趣	gxq
@@ -301,6 +309,7 @@ https://help.flypy.com	xhrm
 高歌猛进	ggmj
 功高震主	ggvv
 呱呱坠地	ggvd
+各回各家	ghgj
 鬼话连篇	ghlp
 高居榜首	gjbu
 国际惯例	gjgl
@@ -314,6 +323,7 @@ https://help.flypy.com	xhrm
 告老还乡	glhx
 寡廉鲜耻	glxi
 功名利禄	gmll
+果实	goui
 过往	gowh
 个人原因	gryy
 宫殿	gsdm
@@ -323,7 +333,6 @@ https://help.flypy.com	xhrm
 功力	gsli
 鼓瑟齐鸣	gsqm
 公投	gstz
-甘肃省	gsug
 共识	gsui
 公证	gsvg
 古董	guds
@@ -355,7 +364,6 @@ https://help.flypy.com	xhrm
 何必当初	hbdi
 毫不留情	hblq
 胡编乱造	hblz
-湖北省	hbug
 恨不相逢未嫁时	hbxu
 耗电	hcdm
 皇帝不急太监急	hdbj
@@ -385,10 +393,10 @@ https://help.flypy.com	xhrm
 花里胡哨	hlhu
 活灵活现	hlhx
 汗流浃背	hljb
+鹤立鸡群	hljq
 汗流满面	hlmm
 花落谁家	hluj
 晃眼	hlyj
-湖南省	hnug
 恍如隔世	hrgu
 浑然不觉	hrbj
 缓解	hrjp
@@ -398,6 +406,7 @@ https://help.flypy.com	xhrm
 好事多磨	hudm
 好说歹说	hudu
 互换	huhr
+胡椒	hujn
 后生可畏	hukw
 欢声雷动	huld
 护理	huli
@@ -410,7 +419,6 @@ https://help.flypy.com	xhrm
 后事之师	huvu
 浑身解数	huxu
 会者不难	hvbn
-回改	hvgd
 货真价实	hvju
 哗众取宠	hvqi
 晦涩	hvse
@@ -442,13 +450,12 @@ https://help.flypy.com	xhrm
 船到江心补漏迟	idji
 差遣	idqm
 撤单	iedj
+超乎想象	ihxx
 春风化雨	ifhy
-春风满面	ifmm
 超凡入圣	ifru
 超凡脱俗	ifts
 冲锋陷阵	ifxv
 春寒料峭	ihlq
-超乎寻常	ihxi
 承建	igjm
 出乖露丑	igli
 承销	igxn
@@ -459,6 +466,7 @@ https://help.flypy.com	xhrm
 春华秋实	ihqu
 春花秋月	ihqy
 常识	ihui
+常委	ihww
 尝鲜	ihxm
 彻彻底底	iidd
 垂垂老矣	iily
@@ -467,6 +475,8 @@ https://help.flypy.com	xhrm
 臭名远扬	imyy
 船舶	irbo
 怅然若失	irru
+喘气	irqi
+出人意表	iryb
 重逢	isfg
 冲剂	isji
 崇敬	isjk
@@ -533,6 +543,7 @@ https://help.flypy.com	xhrm
 积压	jiya
 觊觎	jiyu
 加减乘除	jjii
+句句属实	jjuu
 惊艳	jkyj
 警官	jkgr
 荆棘	jkji
@@ -547,22 +558,24 @@ https://help.flypy.com	xhrm
 景象	jkxl
 竞选	jkxr
 晶莹	jkyk
-吉林省	jlug
 剪刀	jmdc
 坚定	jmdk
 间断	jmdr
 坚固	jmgu
 监察	jmia
+见解	jmjp
 假模假样	jmjy
 间距	jmju
 贱人	jmrf
 肩上	jmuh
 监视	jmui
+近墨者黑	jmvh
 艰辛	jmxb
 奸细	jmxi
 监狱	jmyu
 教诲	jnhv
 较劲	jnjb
+叫唤	jnhr
 焦急	jnji
 矫健	jnjm
 交界	jnjp
@@ -606,7 +619,6 @@ https://help.flypy.com	xhrm
 尽心尽力	jxjl
 加剧	jxju
 渐行渐远	jxjy
-江西省	jxug
 假惺惺	jxxk
 假象	jxxl
 甲乙	jxyi
@@ -632,7 +644,9 @@ https://help.flypy.com	xhrm
 苦心积虑	kxjl
 可以燎原	kyly
 枯燥乏味	kzfw
+两边	lb
 链接	lj
+类似	ls
 轮不到	lbd
 里程碑	lib
 龙卷风	ljf
@@ -642,6 +656,7 @@ https://help.flypy.com	xhrm
 老顽童	lwt
 六月份	lyf
 懒洋洋	lyy
+两边	lb
 聊表寸心	lbcx
 连本带利	lbdl
 拉帮结派	lbjp
@@ -650,6 +665,7 @@ https://help.flypy.com	xhrm
 郎才女貌	lcnm
 落地生根	ldug
 来世	ldui
+立竿见影	lgjy
 利国利民	lglm
 锣鼓喧天	lgxt
 论功行赏	lgxu
@@ -683,10 +699,10 @@ https://help.flypy.com	xhrm
 连蒙带猜	lmdc
 两面三刀	lmsd
 螺蛳	losi
+琉璃	lqli
 两全其美	lqqm
 留宿	lqsu
 流逝	lqui
-流血	lqxt
 利人不利己	lrbj
 令人齿冷	lril
 理所当然	lsdr
@@ -702,6 +718,7 @@ https://help.flypy.com	xhrm
 力争上游	lvuy
 略知一二	lvye
 累积	lwji
+累死	lwsi
 立于不败之地	lybd
 络绎不绝	lybj
 龙吟虎啸	lyhx
@@ -717,6 +734,7 @@ https://help.flypy.com	xhrm
 名不正言不顺	mbvu
 默不作声	mbzu
 茅草	mccc
+毛衣	mcyi
 满腹经纶	mfjl
 每分每秒	mfmm
 马革裹尸	mggu
@@ -731,7 +749,8 @@ https://help.flypy.com	xhrm
 眉开眼笑	mkyx
 懵懵懂懂	mmdd
 满面春风	mmif
-朦朦胧胧	mmll
+忙忙碌碌	mmll
+莫名其妙	mmqm
 勉勉强强	mmqq
 茫茫人海	mmrh
 名门世家	mmuj
@@ -740,6 +759,7 @@ https://help.flypy.com	xhrm
 茉莉	moli
 弥天大谎	mtdh
 募集	muji
+幕僚	muln
 每时每刻	mumk
 牧师	muui
 没事找事	muvu
@@ -754,10 +774,12 @@ https://help.flypy.com	xhrm
 能省则省	nuzu
 能征惯战	nvgv
 能者为师	nvwu
+爬升	paug
 屁大点事	pddu
 屁颠屁颠	pdpd
 普度众生	pdvu
 披肝沥胆	pgld
+飘忽不定	phbd
 疲乏	pifa
 排除异己	piyj
 叛逃	pjtc
@@ -781,6 +803,7 @@ https://help.flypy.com	xhrm
 取长补短	qibd
 千疮百孔	qibk
 七点	qidm
+奇耻大辱	qidr
 气愤	qiff
 起伏	qifu
 牵肠挂肚	qigd
@@ -836,7 +859,7 @@ https://help.flypy.com	xhrm
 清清淡淡	qqdd
 起起伏伏	qqff
 齐齐哈尔	qqhe
-切切实实	qquu
+清清爽爽	qquu
 卿卿我我	qqww
 芊芊玉手	qqyu
 求人不如求己	qrbj
@@ -862,10 +885,12 @@ https://help.flypy.com	xhrm
 仍然	rr
 任务	rw
 人不人鬼不鬼	rbrg
+妊娠	rfuf
 日复一日	rfyr
 如诗如画	rurh
 软硬不吃	rybi
 速度	sd
+送给	sg
 虽然	sr
 搜索	ss
 随着	sv
@@ -894,6 +919,8 @@ https://help.flypy.com	xhrm
 投资	tz
 太原	tdyr
 天寒地冻	thdd
+谈虎色变	thsb
+拖家带口	tjdk
 条件反射	tjfu
 囤积居奇	tjjq
 弹琴	tjqb
@@ -930,6 +957,7 @@ https://help.flypy.com	xhrm
 舍不得孩子套不住狼	ubdl
 事必躬亲	ubgq
 胜败乃兵家常事	ubnu
+说曹操曹操到	uccd
 鼠肚鸡肠	udji
 射程	ueig
 射箭	uejm
@@ -940,6 +968,7 @@ https://help.flypy.com	xhrm
 伸出	ufiu
 杀富济贫	ufjp
 神情	ufqk
+神祇	ufqi
 神色	ufse
 顺风顺水	ufuu
 深远	ufyr
@@ -968,6 +997,7 @@ https://help.flypy.com	xhrm
 时常	uiih
 势力	uili
 石榴	uilq
+诗歌	uige
 食品	uipb
 失陪	uipw
 十七	uiqi
@@ -1032,7 +1062,6 @@ https://help.flypy.com	xhrm
 省委书记	uwuj
 顺我者昌	uwvi
 双喜临门	uxlm
-山西省	uxug
 蛇蝎心肠	uxxi
 生于忧患	uyyh
 顺延	uyyj
@@ -1046,6 +1075,7 @@ https://help.flypy.com	xhrm
 收支	uzvi
 收养	uzyh
 手艺	uzyi
+这次	vc
 指定	vd
 征服	vf
 只会	vh
@@ -1068,15 +1098,17 @@ https://help.flypy.com	xhrm
 照方抓药	vfvy
 指腹为婚	vfwh
 正解	vgjp
+整句	vgju
+政权	vgqr
 争执	vgvi
 中规中矩	vgvj
 周公之礼	vgvl
 至高无上	vgwu
 这个月	vgy
 正义	vgyi
+涨幅	vhfu
 追悔莫及	vhmj
 致辞	vici
-指挥	vihv
 滞后	vihz
 职称	viig
 支出	viiu
@@ -1098,13 +1130,13 @@ https://help.flypy.com	xhrm
 职员	viyr
 指责	vize
 针尖对麦芒	vjdm
-浙江省	vjug
 战士	vjui
 朝九晚五	vjww
 战友	vjyz
 竹篮打水一场空	vldk
 直来直去	vlvq
 珍禽异兽	vqyu
+众人拾柴火焰高	vrug
 终端	vsdr
 终极	vsji
 终结	vsjp
@@ -1123,7 +1155,6 @@ https://help.flypy.com	xhrm
 众矢之的	vuvd
 重赏之下，必有勇夫	vuvf
 助威	vuww
-主义	vuyi
 祝愿	vuyr
 照章办事	vvbu
 战战兢兢	vvjj
@@ -1139,6 +1170,7 @@ https://help.flypy.com	xhrm
 只要功夫深	vygu
 睁一只眼，闭一只眼	vyvy
 味道	wd
+无关	wg
 完美	wm
 未知	wv
 微信	wx
@@ -1154,6 +1186,7 @@ https://help.flypy.com	xhrm
 无坚不摧	wjbc
 万劫不复	wjbf
 无精打采	wjdc
+挽回	wjhv
 无计可施	wjku
 晚年	wjnm
 无拘无束	wjwu
@@ -1164,6 +1197,7 @@ https://help.flypy.com	xhrm
 为数不多	wubd
 无商不奸	wubj
 误导	wudc
+万事大吉	wudj
 蜈蚣	wugs
 无故	wugu
 无理	wuli
@@ -1188,7 +1222,9 @@ https://help.flypy.com	xhrm
 歪歪扭扭	wwnn
 围棋	wwqi
 玩物丧志	wwsv
+完完整整	wwvv
 唯物主义	wwvy
+呜呜呜	www
 猥亵	wwxp
 万无一失	wwyu
 五味杂陈	wwzi
@@ -1319,7 +1355,7 @@ https://help.flypy.com	xhrm
 一句话	yjh
 郁金香	yjx
 艺术性	yux
-以至于	yvy
+以致于	yvy
 犹犹豫豫	yyyy
 雅致	yavi
 以不变应万变	ybbb
@@ -1328,6 +1364,7 @@ https://help.flypy.com	xhrm
 引渡	ybdu
 一般见识	ybju
 愚不可及	ybkj
+眼波流转	yblv
 一笔抹杀	ybmu
 隐匿	ybni
 一表人才	ybrc
@@ -1339,6 +1376,7 @@ https://help.flypy.com	xhrm
 有板有眼	ybyy
 一兵一卒	ybyz
 用词不当	ycbd
+一寸光阴一寸金	ycgj
 以次充好	ycih
 由此及彼	ycjb
 由此可见	yckj
@@ -1353,6 +1391,7 @@ https://help.flypy.com	xhrm
 银河倒泻	yhdx
 一回生二回熟	yhuu
 有话直说	yhvu
+养虎为患	yhwh
 养颜	yhyj
 有话要说	yhyu
 一成不变	yibb
@@ -1360,17 +1399,18 @@ https://help.flypy.com	xhrm
 一尘不染	yibr
 阳春白雪	yibx
 已成定局	yidj
+以诚待人	yidr
 一锤定音	yidy
 依附	yifu
 摇唇鼓舌	yigu
 寅吃卯粮	yiml
 一匹	yipi
 仪器	yiqi
+遗嘱	yivu
 遗忘	yiwh
 运筹帷幄	yiww
 羊肠小道	yixd
 阴差阳错	yiyc
-一唱一和	yiyh
 越扯越远	yiyy
 一击毙命	yjbm
 油尽灯枯	yjdk
@@ -1394,6 +1434,7 @@ https://help.flypy.com	xhrm
 言尽于此	yjyc
 咬紧牙关	yjyg
 赢过	ykgo
+有口难言	ykny
 影射	ykue
 哑口无言	ykwy
 有利无害	ylwh
@@ -1462,6 +1503,7 @@ https://help.flypy.com	xhrm
 洋为中用	ywvy
 余味无穷	ywwq
 言为心声	ywxu
+一星半点	yxbd
 英雄不问出处	yxbi
 一心不能二用	yxby
 以小人之心，度君子之腹	yxrf
@@ -1487,6 +1529,7 @@ https://help.flypy.com	xhrm
 有缘千里来相会	yyqh
 咬牙切齿	yyqi
 洋洋洒洒	yyss
+应有之义	yyvy
 引以为戒	yywj
 依依惜别	yyxb
 炎炎夏日	yyxr
@@ -1508,6 +1551,7 @@ https://help.flypy.com	xhrm
 犹豫	yzyu
 总算	zs
 座位	zw
+总共	zg
 座右铭	zym
 匝道	zadc
 自驾	zijx
@@ -1533,7 +1577,6 @@ https://help.flypy.com	xhrm
 👍	ql
 👌	ok
 👎	ro
-👏	gv
 ☕	ia
 🍺	pj
 🎂	dg
@@ -1559,6 +1602,7 @@ https://help.flypy.com	xhrm
 发	f
 管	g
 化	h
+初	i
 见	j
 块	k
 立	l
@@ -1582,7 +1626,6 @@ https://help.flypy.com	xhrm
 猜	cd
 达	da
 道	dc
-东	ds
 逗	dz
 份	ff
 疯	fg
@@ -1620,7 +1663,6 @@ https://help.flypy.com	xhrm
 退	tv
 省	ug
 守	uz
-招	vc
 症	vg
 战	vj
 终	vs
@@ -1640,7 +1682,6 @@ https://help.flypy.com	xhrm
 遭	zc
 揍	zz
 坐	zo
-堆	dv
 
 #符号
 ！	oa
@@ -1745,7 +1786,7 @@ https://help.flypy.com	xhrm
 》	ol
 〔	on
 〕	om
-；	of
+→	of
 标点d	ofb
 “”	ofbd	100
 （）	ofbd	99
@@ -2465,6 +2506,7 @@ $	ofhb	99
 γ	otg	99
 ℉	oth	100
 ※	oth	99
+¤	oth	98
 ×	oti	100
 ÷	oti	99
 ＋	otj	100
@@ -2481,7 +2523,7 @@ m³	otl	100
 Ω	oto	99
 ㎡	otp	100
 π	otp	99
-‰	otq	100
+‰	otq
 ¥	otr	100
 ￥	otr	99
 ∴	ots	100
@@ -2491,6 +2533,7 @@ m³	otl	100
 ฿	ott	100
 ℡	ott	99
 ™	otu	96
+§	otv	100
 ®	otv	99
 ㈱	otv	98
 ∞	otw	100
@@ -2763,17 +2806,16 @@ m³	otl	100
 Ⅹ	oyu	30
 “	oz
 
-
 # 随心所欲   自定编码规则
-整句	vjb
-政权	vqm
-神祇	uqp
+记忆	jyx
+指挥	vhf
 回忆	hyx
 距离	jlw
 食物	uwn
 及时	juo
 指示	vue
 直到	vda
+直到	vdh
 哲理	vlw
 音形	yxk
 截至	jva
@@ -2787,3 +2829,7 @@ m³	otl	100
 想想	xxm
 智	viud
 计	jiyd
+辨	bmld
+辫	bmls
+东	dsh
+一唱一和	yiyd

@@ -7,7 +7,7 @@ schema_list:
   - schema: flypy
 
 switcher:
-  caption: "切换输入法"
+  caption: 〔方案选单〕
   hotkeys:
     - Control+grave
     - Control+Shift+grave
