@@ -16,9 +16,11 @@
 # 用户词库，下行开始添加，编码格式见上，部署后生效
 
 
-# 简词补全
+# 全码词
+单元	djyr
+反思	fjsi
 打架	dajx
-搅和	jnho
+叫唤	jnhr
 尝尝	ihih
 背景	bwjk
 伤害	uhhd
@@ -36,7 +38,6 @@
 指定	vidk
 链接	lmjp
 束缚	uufu
-主意	vuyi
 征服	vgfu
 歧视	qiui
 为止	wwvi
@@ -48,12 +49,10 @@
 妥妥当当	ttdd
 转圜	vrhr
 反悔	fjhv
-主义	vuyi
 补全	buqr
 整句	vgju
 政权	vgqr
 神祇	ufqi
-及时	jiui
 距离	juli
 音形	ybxk
 想想	xlxl
@@ -80,7 +79,7 @@
 不着边际	bvbj
 采风	cdfg
 猜忌	cdji
-此后	cihz
+伺候	cihz
 餐馆	cjgr
 残局	cjju
 惨死	cjsi
@@ -103,7 +102,6 @@
 淡季	djji
 顶住	dkvu
 屌丝	dnsi
-多于	doyu
 跌价	dpjx
 断点	drdm
 短篇	drpm
@@ -206,7 +204,6 @@
 接口	jpkz
 解围	jpww
 纠葛	jqge
-久远	jqyr
 军师	jyui
 金发碧眼	jfby
 将功补过	jgbg
@@ -227,7 +224,6 @@
 理工	ligs
 零星	lkxk
 连同	lmts
-寥寥	lnln
 列支	lpvi
 榴莲	lqlm
 乱象	lrxl
@@ -282,7 +278,6 @@
 躯壳	quqn
 取笑	quxn
 千娇百媚	qjbm
-千挑万选	qtwx
 忍了	rfle
 任职	rfvi
 韧性	rfxk
