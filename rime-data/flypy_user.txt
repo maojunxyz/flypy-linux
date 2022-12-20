@@ -54,7 +54,7 @@
 妥妥当当	ttdd
 反悔	fjhv
 补全	buqr
-距离	juli
+举例	juli
 音形	ybxk
 想想	xlxl
 导出	dciu
@@ -119,7 +119,7 @@
 风力	fgli
 奉献	fgxm
 访客	fhke
-放手	fhuz
+防守	fhuz
 防伪	fhww
 反腐	fjfu
 凡人	fjrf
@@ -145,7 +145,7 @@
 共计	gsji
 功名	gsmk
 攻破	gspo
-公益	gsyi
+共用	gsys
 公子	gszi
 古文	guwf
 桂花	gvhx

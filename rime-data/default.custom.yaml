@@ -1,6 +1,6 @@
 customization:
   distribution_code_name: flypy-linux
-  distribution_version: 2022-10-20
+  distribution_version: 2022-12-20
   rime_version: 1.5.3
 patch:
   schema_list:
